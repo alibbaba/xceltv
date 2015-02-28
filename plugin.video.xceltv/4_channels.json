@@ -1,0 +1,1449 @@
+{"9XM":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/num/9x_music.png",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://edge.purplestream.com/live/9xm/amlst:9xmus/playlist.m3u8"},
+ "DD National":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/dd/dd_national.png",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD187_W_350.sdp/playlist.m3u8"},
+ "DD News":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/dd/dd_news.png",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD100_W_350.sdp/playlist.m3u8"},
+ "DD Loksabha":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/dd/dd_lok_sabha.png",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD3_W_350.sdp/playlist.m3u8"},
+ "MTunes HD":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/mm/m_tunes_hd.png",
+	 "channelType": "IND",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/99"},
+ "MTunes": 
+	{"iconimage":"http://blogs.adobe.com/creativecloud/files/2014/11/mTunes_1_Logo.png",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlshinextra-lh.akamaihd.net/i/ams4_mtunes@124572/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Movies Now HD":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/mm/movies_now.png",
+	 "channelType": "IND",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/520"},
+ "Music Express":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/mm/music_xpress_in.png",
+	 "channelType": "IND",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/299"},
+ "Manoranjan Music":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/mm/manoranjan_music_in.png",
+	 "channelType": "IND",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://ferrarilb.jemtv.com/index.php/2_4/gxml/play/906"},
+ "Manoranjan TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/mm/manoranjan.png",
+	 "channelType": "IND",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://ferrarilb.jemtv.com/index.php/2_4/gxml/play/270"},
+ "Mastiii TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/mm/mastiii_tv_in.png",
+	 "channelType": "IND",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://ferrarilb.jemtv.com/index.php/2_4/gxml/play/269"},     
+ "Enterr10":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ee/enterr_10.png",
+	 "channelType": "IND",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/343"},
+ "Food Food":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ff/food_food_in.png",
+	 "channelType": "IND",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/426"},
+ "Dhanak TV":
+	{"iconimage":"http://guangzhou.cust.footprint.net/ch_images/dhunk-j2.jpg",
+	 "channelType": "IND",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/740"},     
+ "Music Now HD":
+	{"iconimage":"http://guangzhou.cust.footprint.net/ch_images/mnow_tile_j2.jpg",
+	 "channelType": "IND",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/832"},     
+ "9X Jalwa":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/num/9x_jalwa.png",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://edge.purplestream.com/live/9xjal/amlst:9xjl/playlist.m3u8"},
+ "Zoom TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/zz/zoom_tv_in.png",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk9_49@196628/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"}, 
+ "Rishtey UK":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/rr/rishtey_uk.png",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlsengent-lh.akamaihd.net/i/hls22_rishteyuk6@155360/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},     
+ "Music India":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/mm/music_india.png",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlshinextra-lh.akamaihd.net/i/ams4_musicind@124573/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Samay":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/sahara_samay_in.png",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlshinnews-lh.akamaihd.net/i/ams2_saharasamay@124568/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Delhi Aajtak":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/aa/aaj_tak_delhi.png",
+	 "channelType": "IND",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/281"},     
+ "AajTak":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/aa/aaj_tak.png",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlshinnews-lh.akamaihd.net/i/ams2_aajtak@124566/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "India News":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ii/india_news_in.png",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD148_W_350.sdp/playlist.m3u8"},     
+ "IBN7":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ii/ibn7.png",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_3_av-b.m3u8?sd=10&play-only=backup&rebase=on"},
+ "ABP News":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/aa/abp_news_in.png",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlshinnews-lh.akamaihd.net/i/ams20_abpnews@126271/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "India TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ii/india_tv_in.png",
+	 "channelType": "IND",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/157"},
+ "NDTV 24x7":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/nn/ndtv_24x7.png",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/blore7_ndtvenglish3@113071/master.m3u8|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "NDTV India":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/nn/ndtv_india.png",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "rtsp://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/ndtvindialive256?nc=1"},
+ "Star Plus AU":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/star_plus_in.png",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk9_9@196588/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Star Plus HD USA":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/star_plus_in_hd.png",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/blore3_starplusus70@135403/master.m3u8|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Life OK AU":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ll/life_ok_in.png",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk9_10@196589/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "UTV Movies":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/uu/utv_movies_international.png",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk9_46@196625/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Zee Business":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/zz/zee_business.png",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk4_zeebusiness@180465/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Zee Smile":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/zz/zee_smile.png",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk9_24@196603/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Zee TV APAC":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/zz/zee_tv_in.png",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/blore5_zeetvapac1@35955/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Zee TV HD USA":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/zz/zee_tv_hd.png",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk4_zeetv@180465/master.m3u8|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Zee Cinema APAC":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/zz/zee_cinema_asia.png",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk4_zeecinemaapac@180465/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Zee Classic":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/zz/zee_classic_in.png",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk5_zeeclassic@180466/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Mangalmaya":
+	{"iconimage":"http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/Mangalmaya_roku.jpg",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/mbr4_aasaram@180554/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Zee Jagran":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/zz/zee_jagran.png",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk4_zeejagran@180465/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},     
+ "Zee Premier":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/zz/zee_premier_in.png",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk5_zeepremier@180466/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Zee Action":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/zz/zee_action.png",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk5_zeeaction@180466/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Sony Entertainment AUD":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/set_in.png",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/blore4_sonyau2@35909/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Set Max AU":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/sony_max_tv_in.png",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/blore4_setmaxau1@35908/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Sab AU":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/sony_sab_tv_in.png",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/blore4_sabtvau3@35910/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Colors APAC":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/cc/colors_in.png",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/blore4_colorsau5@35912/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "MTV India":
+	{"iconimage":"http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/mtv_india_roku.jpg",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/blore4_mtvau4@35911/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Sanskar TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/sanskar_tv.png",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/blore_7@35255/master.m3u8|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Bindass Play":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/bb/bindass_play_in.png",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk9_42@196621/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "UTV Bindass":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/bb/bindass_in.png",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk9_43@196622/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "TimesNow":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/tt/times_now.png",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/blore7_timesnow8@113076/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Headlines Today":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/hh/headlines_today.png",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlsengnews-lh.akamaihd.net/i/hls20_headlinestoda3@4861/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "ETNow":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ee/et_now.png",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlsengnews-lh.akamaihd.net/i/hls20_etnow4@4864/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "News18 India":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/nn/news_18_india.png",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://akamaihd.wowzahls3.yuppcdn.net/hls/news18/news18.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Big Magic":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/bb/big_magic.png",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://d1vfuy3zwrxiut.cloudfront.net/Live/_definst_/sweetbcha1novD154_W_250.sdp/manifest.m3u8"},
+ "Bollywood Masala":
+	{"iconimage":"http://www.bollywoodmasala.tv/videos/templates/images/logo1.jpg",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD191_W_350.sdp/playlist.m3u8"},
+ "Divya TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/dd/divya_tv.png",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlshinent-lh.akamaihd.net/i/ams31_divyatv@127869/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Aashtha":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/aa/aastha.png",
+	 "channelType": "IND",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/91"},
+ "Aashtha Arihant":
+	{"iconimage":"http://cdn.freedocast.com/yupptv/sony1/images/aastha_arihant_roku.jpg",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlshinextra-lh.akamaihd.net/i/ams38_arihant@301292/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Aashtha Bhajan":
+	{"iconimage":"http://cdn.freedocast.com/yupptv/sony1/images/aastha_bhajan_roku.jpg",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlshinextra-lh.akamaihd.net/i/ams38_bhajan@301291/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},     
+ "Lamhe UK":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ll/lamhe_tv_in.png",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://akamaihd.wowzahls24.yuppcdn.net/hls/zeecafeuk/zeecafeuk.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Zing TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/zz/zee_zing_asia.png",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlshinextra-lh.akamaihd.net/i/hls9_zingtv11@64987/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "TEZ TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/tt/tez_tv_in.png",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlshinnews-lh.akamaihd.net/i/ams2_tez@124567/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Samay Aalami":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/aa/aalami_in.png",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlshinnews-lh.akamaihd.net/i/ams8_samayaalami@124593/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Sudarshan News":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/sudarshan_tv_in.png",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlsothernews-lh.akamaihd.net/i/ams32_sudarshannews@127871/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Samay MP":
+	{"iconimage":"http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/samay_mp_cg_roku.jpg",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlshinnews-lh.akamaihd.net/i/ams8_samaymp@124591/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Samay UP":
+	{"iconimage":"http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/samay_up_ukan_roku.jpg",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlshinnews-lh.akamaihd.net/i/ams2_saharaup@124569/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Samay Rajasthan":
+	{"iconimage":"http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/sahara_ncr_roku.jpg",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlshinnews-lh.akamaihd.net/i/ams8_samayraj@124590/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Samay Bihar":
+	{"iconimage":"http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/samay_bihar_roku.jpg",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlshinnews-lh.akamaihd.net/i/ams8_samaybih@124592/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},     
+ "TV9News":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/tt/tv9_telugu.png",
+	 "channelType": "TEL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlstelnews-lh.akamaihd.net/i/ams1_tv9@124562/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "TV1News":
+	{"iconimage":"http://cdn.freedocast.com/yupptv/sony1/images/tv1_roku.jpg",
+	 "channelType": "TEL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/mbr4_tv1@180554/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "6TV Telangana":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/num/6_tv_telangana_in.png",
+	 "channelType": "TEL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlstelnews-lh.akamaihd.net/i/ams17_6tvtelangana@124765/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Pooja TV":
+	{"iconimage":"http://cdn.freedocast.com/yupptv/sony1/images/pooja_tv_roku.jpg",
+	 "channelType": "TEL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlsotherextra-lh.akamaihd.net/i/ams27_poojatv@127693/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Maa Music":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/mm/maa_music.png",
+	 "channelType": "TEL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlstelextra-lh.akamaihd.net/i/hls2_maamusic4@65305/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "ABN Andhra Jyoti":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/aa/abn_in.png",
+	 "channelType": "TEL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlstelnews-lh.akamaihd.net/i/ams1_abn@124563/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Zee Telugu":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/zz/zee_telugu.png",
+	 "channelType": "TEL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlstelent-lh.akamaihd.net/i/ams29_zeetelugu@127858/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Maa TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/mm/maa_tv.png",
+	 "channelType": "TEL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlstelent-lh.akamaihd.net/i/ams29_maatv@127856/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "ETV Andhra Pradesh":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ee/etv_2_andhra_pradesh_in.png",
+	 "channelType": "TEL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlstelextra-lh.akamaihd.net/i/ams9_etv2@124594/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Sakshi TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/sakshi_tv.png",
+	 "channelType": "TEL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlstelnews-lh.akamaihd.net/i/ams1_sakshi@124564/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Raj News":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/rr/raj_news_24x7.png",
+	 "channelType": "TEL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlstelnews-lh.akamaihd.net/i/hls1_rajnews7@65287/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Gemini TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/sun_gemini.png",
+	 "channelType": "TEL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlstelent-lh.akamaihd.net/i/ams29_gemini@127857/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Gemini Movies":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_movies.png",
+	 "channelType": "TEL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk_geminimovies@180285/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Maa Movies":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/mm/maa_movies.png",
+	 "channelType": "TEL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlstelent-lh.akamaihd.net/i/ams29_maamovies@127859/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Maa Gold":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/mm/maa_gold.png",
+	 "channelType": "TEL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk1_maajuniors@180462/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Mahaa News":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/mm/mahaa_news_in.png",
+	 "channelType": "TEL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlstelnews-lh.akamaihd.net/i/ams28_mahaatv@127853/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "ETV Telugu":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png",
+	 "channelType": "TEL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk_etv@180285/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Gemini Comedy":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_comedy.png",
+	 "channelType": "TEL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk3_geminicom@180464/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Calvary TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/cc/calvary_tv.png",
+	 "channelType": "TEL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlsotherextra-lh.akamaihd.net/i/ams26_captaintv@127500/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Tollywood TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/tt/tollywood_in.png",
+	 "channelType": "TEL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlstelent-lh.akamaihd.net/i/hls_tollywoodtv2@65260/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "CVR English News":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/cc/cvr_news.png",
+	 "channelType": "TEL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/mbr4_cvrnewseng@180554/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Zee Telugu US":
+	{"iconimage":"http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/zeetelugu_us.jpg",
+	 "channelType": "TEL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk_zeetelus@180285/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},    
+ "Maa TV US":
+	{"iconimage":"http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/maa_us.jpg",
+	 "channelType": "TEL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk_maatvus@180285/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},     
+ "Gemini TV US":
+	{"iconimage":"http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/gemini_ustime.jpg",
+	 "channelType": "TEL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk_geminius@180285/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Maa Movies US":
+	{"iconimage":"http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/maa_movies_ustime_roku.jpg",
+	 "channelType": "TEL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk1_maamoviesus@180462/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "OM CVR":
+	{"iconimage":"http://cdn.freedocast.com/yupptv/sony1/images/om_cvr_roku.jpg",
+	 "channelType": "TEL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/mbr4_cvrom@180554/master.m3u8|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "10TV News":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/num/10_tv_in.png",
+	 "channelType": "TEL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlstelextra-lh.akamaihd.net/i/ams9_10tv@124598/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "AOne Punjabi":
+	{"iconimage":"http://cdn.freedocast.com/yupptv/sony1/images/aone_punjabi_tv_roku.jpg",
+	 "channelType": "PUN",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlsotherextra-lh.akamaihd.net/i/hls28_aonepunjabi@129321/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "PTC Punjabi":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/pp/ptc_punjabi.png",
+	 "channelType": "PUN",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlsotherent-lh.akamaihd.net/i/ams23_ptcpunjabi@127491/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "PTC Chak De":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/pp/ptc_chakde.png",
+	 "channelType": "PUN",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlsotherent-lh.akamaihd.net/i/ams23_ptcchakde@127492/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "PTC News":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/pp/ptc_news.png",
+	 "channelType": "PUN",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlsothernews-lh.akamaihd.net/i/ams24_ptcnews@127495/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "ETC Punjabi":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/aa/alpha_etc_punjabi_atn.png",
+	 "channelType": "PUN",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk4_etcpunjabi@180465/master.m3u8|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Ankhila Punjab TV":
+	{"iconimage":"https://pbs.twimg.com/profile_images/485012084845862912/XdeBiVlu_400x400.jpeg",
+	 "channelType": "PUN",
+     "channelSource": "OTHER",
+	 "channelUrl": "rtmp://5.135.8.138:1935/live/punjab timeout=15"},    
+ "9x Tashan":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/num/9x_tashan.png",
+	 "channelType": "PUN",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://edge.purplestream.com/live/9xtas/amlst:9xtsh/playlist.m3u8"},
+ "Zee Punjabi UK":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/zz/zee_punjabi_uk.png",
+	 "channelType": "PUN",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://akamaihd.wowzahls24.yuppcdn.net/hls/zeepunjabiuk/zeepunjabiuk.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Punjab TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/pp/punjab_tv_pk.png",
+	 "channelType": "PAK",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/427"},
+ "PTV World":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/pp/ptv_world_pk.png",
+	 "channelType": "PAK",
+     "channelSource": "OTHER",
+	 "channelUrl": "rtmp://live.server4sale.com/live playpath=8090 swfUrl=http://live.server4sale.com:81/swfs/videoPlayer.swf pageUrl=http://www.pakistanvision.com/Livetv9.html live=true swfVfy=true timeout=15"},
+ "ARY Digital":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/aa/ary_digital_asia.png",
+	 "channelType": "PAK",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/blore1_arydigital25@135191/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Express":
+	{"iconimage":"http://chiragjhaveri.com/logos/express.jpg",
+	 "channelType": "PAK",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://ferrarilb.jemtv.com/index.php/2_4/gxml/play/793"},
+ "ARY News":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/aa/ary_news_asia.png",
+	 "channelType": "PAK",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/blore1_arynewsukus24@135190/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "ARY Musik":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/aa/ary_musik.png",
+	 "channelType": "PAK",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/blore1_arymusik23@135189/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "ARY Zauq":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/aa/ary_zauq.png",
+	 "channelType": "PAK",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/blore_2@35277/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "ARY QTV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/aa/ary_qtv.png",
+	 "channelType": "PAK",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/523"},
+ "Peace TV Urdu":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/pp/peace_tv.png",
+	 "channelType": "PAK",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/blore3_peacetvurdu63@130847/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Paigham TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/pp/paigham_tv_pk.png",
+	 "channelType": "PAK",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlsotherextra-lh.akamaihd.net/i/hls22_paigamtv@127507/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Hadi TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/hh/hadi_tv_pk.png",
+	 "channelType": "PAK",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/blore2_haditv47@130197/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Madani TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/mm/madani_channel.png",
+	 "channelType": "PAK",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/blore1_madanitv1@105691/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Hidayat TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/hh/hidayat_tv.png",
+	 "channelType": "PAK",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/blore2_hidayattv48@130198/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "PTV News":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/pp/ptv_news.png",
+	 "channelType": "PAK",
+     "channelSource": "OTHER",
+	 "channelUrl": "rtmp://s4s1.pakistanvision.tv/live playpath=PTVnews swfUrl=http://www.pakistanvision.com/swfs/videoPlayer.swf pageUrl=http://ptv.com.pk/livetvnews.asp swfVfy=true live=true timeout=15"},
+ "Hum TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/hh/hum_tv_pk.png",
+	 "channelType": "PAK",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/242"},
+ "Prime TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/pp/prime_tv_uk.png",
+	 "channelType": "PAK",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/417"},     
+ "Hum World":
+	{"iconimage":"http://www.tv-logo.com/pt-data/uploads/images/logo/hum_tv_world.jpg",
+	 "channelType": "PAK",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/795"},
+ "Hum Masala":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/hh/hum_masala_tv_pk.png",
+	 "channelType": "PAK",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/830"},
+ "Hum Sitaray":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/hh/hum_tv_sitaray.png",
+	 "channelType": "PAK",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/829"},    
+ "PuthiyaThalaimurai":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/pp/puthiya_thalaimurai.png",
+	 "channelType": "TAM",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlstamnews-lh.akamaihd.net/i/ams7_puthiya@124588/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Jaya TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/jj/jaya_tv_in.png",
+	 "channelType": "TAM",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlstament-lh.akamaihd.net/i/ams30_jayatv@127860/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Raj Musix":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/rr/raj_musix.png",
+	 "channelType": "TAM",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlstamextra-lh.akamaihd.net/i/ams5_rajmusix@124581/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Sun TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/sun_tv_in.png",
+	 "channelType": "TAM",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlstament-lh.akamaihd.net/i/ams30_suntv@127865/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "KTV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/sun_kondattam_tv.png",
+	 "channelType": "TAM",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlstament-lh.akamaihd.net/i/hls3_ktv16@65330/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Raj News 24X7":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/rr/raj_news_24x7.png",
+	 "channelType": "TAM",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlstamnews-lh.akamaihd.net/i/ams7_rajnews24x7@124585/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Makkal TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/mm/makkal_tv.png",
+	 "channelType": "TAM",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlstament-lh.akamaihd.net/i/ams13_makkaltv@124741/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Raj TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/rr/raj_tv.png",
+	 "channelType": "TAM",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlstamextra-lh.akamaihd.net/i/hls5_rajtv2@65345/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Raj Digital Plus":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/rr/raj_digital_plus.png",
+	 "channelType": "TAM",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlstament-lh.akamaihd.net/i/hls3_rajdigitalplus7@65321/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Jaya Max":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/jj/jaya_max.png",
+	 "channelType": "TAM",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/blore6_jayamax11@131920/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Jaya Plus Tamil":
+	{"iconimage":"http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/jayaplus.jpg",
+	 "channelType": "TAM",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlstamnews-lh.akamaihd.net/i/ams7_jayaplus@124586/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Jaya Movies":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/jj/j_movie_in.png",
+	 "channelType": "TAM",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlstament-lh.akamaihd.net/i/ams30_jayamovies@127863/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Star Vijay":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/star_vijay_in.png",
+	 "channelType": "TAM",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlstament-lh.akamaihd.net/i/hls3_starvijay9@65323/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Thanthi TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/tt/thanthi_tv_in.png",
+	 "channelType": "TAM",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlstamextra-lh.akamaihd.net/i/ams5_thanthi@124582/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Adithya TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/sun_adithya.png",
+	 "channelType": "TAM",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlstamextra-lh.akamaihd.net/i/hls5_adithyatv10@65353/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Sun Music":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/sun_music.png",
+	 "channelType": "TAM",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlstamextra-lh.akamaihd.net/i/hls5_sunmusic11@65354/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Seithigal TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/kk/kalaignar_seithigal.png",
+	 "channelType": "TAM",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlstamextra-lh.akamaihd.net/i/ams5_seithagal@124583/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Kalaignar TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/kk/kalaignar_tv.png",
+	 "channelType": "TAM",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlstamextra-lh.akamaihd.net/i/ams5_kalaignar@124584/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Sirippoli TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/kk/kalaignar_sirippoli.png",
+	 "channelType": "TAM",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlstament-lh.akamaihd.net/i/ams13_sirippolitv@124745/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Chithiram TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/kk/kalaignar_chithiram.png",
+	 "channelType": "TAM",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk5_chithiram@180466/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Captain TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/cc/captain_tv.png",
+	 "channelType": "TAM",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlsotherextra-lh.akamaihd.net/i/ams26_captaintv@127500/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Jaya TV US":
+	{"iconimage":"http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/jayatv_us.jpg",
+	 "channelType": "TAM",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk1_jayatvus@180462/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Sun TV US":
+	{"iconimage":"http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/sun_ustime.jpg",
+	 "channelType": "TAM",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlstament-lh.akamaihd.net/i/hls3_suntvus15@65329/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "KTV US":
+	{"iconimage":"http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/ktv_ustime.jpg",
+	 "channelType": "TAM",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlstament-lh.akamaihd.net/i/hls3_ktvus17@65331/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Raj TV US":
+	{"iconimage":"http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/rajtv_us.jpg",
+	 "channelType": "TAM",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk1_rajtvus@180462/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Raj Digital Plus US":
+	{"iconimage":"http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/rajdigitalplus_us.jpg",
+	 "channelType": "TAM",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk1_rajdigitalplusus@180462/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Jaya Max US":
+	{"iconimage":"http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/jayamax_us.jpg",
+	 "channelType": "TAM",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk1_jayamaxus@180462/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Jaya Movies US":
+	{"iconimage":"http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/jayamovies_us.jpg",
+	 "channelType": "TAM",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk1_jayamoviesus@180462/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},     
+ "Captain News":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/cc/captain_news_in.png",
+	 "channelType": "TAM",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlstamnews-lh.akamaihd.net/i/ams7_captainmews@124587/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Sri Sankara Tamil":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/sri_sankara.png",
+	 "channelType": "TAM",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlstament-lh.akamaihd.net/i/ams30_srisankaratam@127864/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},    
+ "Isai Aruvi":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/kk/kalaignar_isai_aruvi.png",
+	 "channelType": "TAM",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlstament-lh.akamaihd.net/i/ams13_isaiaruvitv@124746/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Murasu":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/kk/kalaignar_murasu.png",
+	 "channelType": "TAM",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlstament-lh.akamaihd.net/i/ams13_murasu@124747/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},     
+ "Mathrubhumi News":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/mm/mathrubhumi_news.png",
+	 "channelType": "MAL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlsmalnews-lh.akamaihd.net/i/hls11_mathrubhumi3@64919/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Indiavision TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ii/indiavision.png",
+	 "channelType": "MAL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlsmalnews-lh.akamaihd.net/i/ams12_indiavision@124739/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "MediaOne TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/mm/media_one_in.png",
+	 "channelType": "MAL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlsmalent-lh.akamaihd.net/i/ams14_mediaone@124753/master.m3u8|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Kaumudy TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/kk/kaumudy_tv.png",
+	 "channelType": "MAL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlsmalent-lh.akamaihd.net/i/ams14_kaumudytv@124754/master.m3u8|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "KeralaVision":    
+	{"iconimage":"http://cdn.freedocast.com/yupptv/sony1/images/kerala_vision_roku.jpg",
+	 "channelType": "MAL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlsmalent-lh.akamaihd.net/i/ams14_keralavision@124755/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Manorama News":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/mm/manorama_news_international.png",
+	 "channelType": "MAL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlsmalnews-lh.akamaihd.net/i/ams12_manoramanews@124740/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Mazhavil Manorama":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/mm/mazhavil_manorama.png",
+	 "channelType": "MAL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlsmalent-lh.akamaihd.net/i/ams14_mazhavilmanora@124756/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Surya TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/sun_surya_tv.png",
+	 "channelType": "MAL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/blore6_surya29@138674/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Asianet News":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/aa/asianet_news.png",
+	 "channelType": "MAL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/blore_5@35278/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Raj Musix Malayalam":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/rr/raj_musix_malayalam.png",
+	 "channelType": "MAL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlsmalent-lh.akamaihd.net/i/ams14_rajmusicmalaya@124749/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Jeevan TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/jj/jeevan_tv.png",
+	 "channelType": "MAL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlstament-lh.akamaihd.net/i/ams30_jeevantv@127862/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "People TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/kk/kairali_people.png",
+	 "channelType": "MAL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/blore1_peopletv29@135195/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Amrita TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/aa/amrita_tv.png",
+	 "channelType": "MAL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlsmalent-lh.akamaihd.net/i/ams14_amritatv@124750/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Kairali TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/kk/kairali.png",
+	 "channelType": "MAL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk9_7@196586/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "We TV":
+	{"iconimage":"http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/we_roku.jpg",
+	 "channelType": "MAL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk2_we@180463/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Asianet TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/aa/asianet_in.png",
+	 "channelType": "MAL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk3_starasianet@180464/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Asianet Plus":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/aa/asianet_plus.png",
+	 "channelType": "MAL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk3_starasianetp@180464/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Jaihind TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/jj/jai_hind_tv.png",
+	 "channelType": "MAL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlsmalnews-lh.akamaihd.net/i/ams25_jaihind@127497/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Kiran TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/sun_kiran.png",
+	 "channelType": "MAL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk4_kirantv@180465/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Reporter TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/rr/reporter_tv.png",
+	 "channelType": "MAL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk7_18@186322/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Shalom TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/shalom_tv_in.png",
+	 "channelType": "MAL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlsotherextra-lh.akamaihd.net/i/ams26_shalomtv@127501/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Power Vision TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/pp/powervision.png",
+	 "channelType": "MAL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlsmalnews-lh.akamaihd.net/i/ams25_powervision@127498/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "AY TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/aa/athmeeya_yathra_tv.png",
+	 "channelType": "MAL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlsothernews-lh.akamaihd.net/i/ams32_aytv@127873/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Asianet Movies":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/aa/asianet_movies.png",
+	 "channelType": "MAL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk2_asianetmovies@180463/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Surya TV US":
+	{"iconimage":"http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/surya_ustime.jpg",
+	 "channelType": "MAL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk9_41@196620/master.m3u8|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Asianet TV US":
+	{"iconimage":"http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/asianet_ustimet_roku.jpg",
+	 "channelType": "MAL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk3_starasianetus@180464/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Asianet Plus US":
+	{"iconimage":"http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/asiaplus_ustime_roku.jpg",
+	 "channelType": "MAL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk3_starasianetpus@180464/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Kiran TV US":
+	{"iconimage":"http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/kiran_ustime_roku.jpg",
+	 "channelType": "MAL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk4_kirantvus@180465/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Goodness TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/gg/goodness_tv_in.png",
+	 "channelType": "MAL",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk2_goodness@180463/master.m3u8|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},     
+ "TV9 Maharashtra":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/tt/tv9_mumbai.png",
+	 "channelType": "MAR",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlssouthasianews-lh.akamaihd.net/i/ams16_tv9maharashtra@124762/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "ABP Majha":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/aa/abp_majha.png",
+	 "channelType": "MAR",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlshinnews-lh.akamaihd.net/i/ams20_abpmajha@126270/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "ETV Marathi":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ee/etv_marathi.png",
+	 "channelType": "MAR",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk2_etvmarathi@180463/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Star Pravah":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/star_pravah.png",
+	 "channelType": "MAR",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk3_starpravah@180464/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Zee Marathi":
+	{"iconimage":"http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/zee_marathi_roku.jpg",
+	 "channelType": "MAR",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk4_zeemarathi@180465/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Saam TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/zz/zee_marathi.png",
+	 "channelType": "MAR",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlsotherent-lh.akamaihd.net/i/ams23_saamtv@127490/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "9xJhakaas":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/num/9x_jhakaas.png",
+	 "channelType": "MAR",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://edge.purplestream.com/live/9xjha/amlst:9xjak/playlist.m3u8"},
+ "24 Taas":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/zz/zee_24_taas.png",
+	 "channelType": "MAR",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk4_24taas@180465/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "IBN Lokmat":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ii/ibn_lokmat.png",
+	 "channelType": "MAR",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://ibn_lokmat_hls-lh.akamaihd.net/i/ibn_lokmat_hls_n_1@178974/index_3_av-p.m3u8?sd=10&play-only=primary&rebase=on"},     
+ "ABP Ananda":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/aa/abp_ananda.png",
+	 "channelType": "BEN",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlshinnews-lh.akamaihd.net/i/ams20_abpananda@126269/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Tara Muzik":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/tt/tara_muzik.png",
+	 "channelType": "BEN",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/blore7_15@42687/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "ETV Bangla":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ee/etv_bangla.png",
+	 "channelType": "BEN",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk2_etvbengali@180463/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Star Jalsha":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/star_jalsha.png",
+	 "channelType": "BEN",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk3_starjalsha@180464/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Zee Bangla":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/zz/zee_bangla.png",
+	 "channelType": "BEN",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk3_zeebangla@180464/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Rupashi Bangla":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/rr/rupasi_tv_in.png",
+	 "channelType": "BEN",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlsotherent-lh.akamaihd.net/i/ams23_ruposhibangla@127486/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Planet M Cinema":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/pp/planet_m_cinema.png",
+	 "channelType": "BEN",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlsotherent-lh.akamaihd.net/i/ams23_planetm@127493/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Dhoom Music":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/dd/dhoom_music.png",
+	 "channelType": "BEN",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlsotherent-lh.akamaihd.net/i/ams23_dhoommusic@127487/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "News Time":
+	{"iconimage":"http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/ntbangla_roku.jpg",
+	 "channelType": "BEN",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlsothernews-lh.akamaihd.net/i/ams24_newstime@127494/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Sangeet Bangla":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/sangeet_bangla.png",
+	 "channelType": "BEN",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlsothernews-lh.akamaihd.net/i/ams32_sangeetbangla@127872/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},     
+ "TV9 Kannada":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/tt/tv9_kannada.png",
+	 "channelType": "KAN",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlssouthasianews-lh.akamaihd.net/i/ams16_tv9kannada@124761/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "News9":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/nn/news_9_in.png",
+	 "channelType": "KAN",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlssouthasianews-lh.akamaihd.net/i/ams16_news9@124763/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Public TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/pp/public_tv_in.png",
+	 "channelType": "KAN",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlsmalnews-lh.akamaihd.net/i/ams25_publictv@127499/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Sri Sankara Kannada":
+	{"iconimage":"http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/sri_sankara_kannada_roku.jpg",
+	 "channelType": "KAN",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlsothernews-lh.akamaihd.net/i/ams32_srisankarakan@127874/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Zee Kannada":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/zz/zee_kannada.png",
+	 "channelType": "KAN",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk4_zeekannada@180465/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Raj Musix Kannada":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/rr/raj_musix_kannada_in.png",
+	 "channelType": "KAN",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlssouthasianews-lh.akamaihd.net/i/ams16_rajmusickan@124759/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Janasri News":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/jj/janasri_kannada_news.png",
+	 "channelType": "KAN",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/mbr3_channel8@180553/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Suvarna News 24X7":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/suvarna_news_24x7_in.png",
+	 "channelType": "KAN",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlsothernews-lh.akamaihd.net/i/ams32_suvarna@127870/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "ETV Kannada":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ee/etv_kannada.png",
+	 "channelType": "KAN",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk_etvkan@180285/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Udaya TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/sun_udaya_tv.png",
+	 "channelType": "KAN",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk_udaya@180285/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Suvarna TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/aa/asianet_suvarna.png",
+	 "channelType": "KAN",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk1_suvarnaent@180462/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},     
+ "TV9 Gujarati":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/tt/tv9_gujarat.png",
+	 "channelType": "GUJ",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlsothernews-lh.akamaihd.net/i/ams24_tv9gujarati@127496/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "ETV Gujarati":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ee/etv_gujarati.png",
+	 "channelType": "GUJ",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk5_etvguj@180466/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "VTV Gujarati News":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/vv/vtv_gujarati.png",
+	 "channelType": "GUJ",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://edge-ind.inapcdn.in:1935/berry/inewsup.stream_sdp/playlist.m3u8"},
+ "Sandesh News":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/sandesh_news_in.png",
+	 "channelType": "GUJ",
+     "channelSource": "OTHER",
+	 "channelUrl": "rtmp://livestream.webtvindia.in/sandesh/ playpath=d0dbe915091d400bd8ee7f27f0791303.sdp swfUrl=http://webtvindia.in/tv/player.swf pageUrl=http://www.webtvindia.in/channels/sandesh/default.asp timeout=15"},
+ "RTV Bangla":
+	{"iconimage":"http://static.aka.yupp.yuppcdn.net/yupptv/roku/images/rtv_roku.jpg",
+	 "channelType": "BAN",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/blore2_rtvbangla59@106352/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "BTV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/bb/btv_bd.png",
+	 "channelType": "BAN",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk10_7@62096/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "BTV World":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/bb/btv_world.png",
+	 "channelType": "BAN",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/blore2_btvworld50@130211/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Ekushey TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ee/ekushey_tv.png",
+	 "channelType": "BAN",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/blore2_ekursheytv58@135287/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Peace TV Bangla":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/pp/peace_tv.png",
+	 "channelType": "BAN",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/blore3_peacetvbang62@131742/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Channel i":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/cc/channel_i.png",
+	 "channelType": "BAN",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/blore2_channeli60@135335/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},     
+ "Tarang Music":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/tt/tarang_music.png",
+	 "channelType": "ORI",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk5_tarangmusic@180466/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Prarthana TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/pp/prarthana_tv.png",
+	 "channelType": "ORI",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/mbr4_prathanatv@180554/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Oriya TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/oo/odisha_tv.png",
+	 "channelType": "ORI",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk7_10@186314/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Tarang TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/tt/tarang_tv.png",
+	 "channelType": "ORI",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk5_tarangtv@180466/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},     
+ "NTV Plus":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/nn/nepal_tv_plus.png",
+	 "channelType": "NEP",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/208"},
+ "Nepal TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/nn/nepal_tv.png",
+	 "channelType": "NEP",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/210"},
+ "Image TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ii/image_channel.png",
+	 "channelType": "NEP",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/212"},
+ "ABC News":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/aa/abc_np.png",
+	 "channelType": "NEP",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/209"},
+ "Vision Nepal":
+	{"iconimage":"http://www.pearlmediagroup.com/images/vision-nepal.jpg",
+	 "channelType": "NEP",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/214"},
+ "Nepal 1 TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/nn/nepal1.png",
+	 "channelType": "NEP",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/215"},
+ "Kantipur TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/kk/kantipur_tv_np.png",
+	 "channelType": "NEP",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/810"},
+ "News 24":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/nn/news24_in.png",
+	 "channelType": "NEP",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/811"},
+ "Avenues TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/aa/avenues_tv.png",
+	 "channelType": "NEP",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/812"},
+ "Himalaya TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/hh/himalaya_tv.png",
+	 "channelType": "NEP",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/813"},
+ "Mountain TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/mm/mountain_tv_np.png",
+	 "channelType": "NEP",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/874"},
+ "MN TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/mm/mn_tv_mm.png",
+	 "channelType": "NEP",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/477"},
+ "TV Filmy":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/tt/tv_filmy_np.png",
+	 "channelType": "NEP",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/213"},
+ "1TV Afghan":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/num/1tv_af.png",
+	 "channelType": "AFG",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/184"},
+ "Tolo News":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/tt/tolo_news.png",
+	 "channelType": "AFG",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/181"},
+ "Tolo TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/tt/tolo_tv.png",
+	 "channelType": "AFG",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/475"},
+ "Lemar":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ll/lemar_tv.png",
+	 "channelType": "AFG",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/183"},
+ "Ariana":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/aa/ariana_afghanistan_tv.png",
+	 "channelType": "AFG",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/187"},
+ "Ariana TV Network":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/aa/ariana_tv_network.png",
+	 "channelType": "AFG",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/784"},
+ "ATN News":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/aa/atn_news_af.png",
+	 "channelType": "AFG",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/185"},
+ "Ariana International":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/aa/ariana_tv_network_international.png",
+	 "channelType": "AFG",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/188"},
+ "Srood":
+	{"iconimage":"http://chiragjhaveri.com/logos/srood.png",
+	 "channelType": "AFG",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/809"},
+ "Ayna":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/aa/ayna_tv_af.png",
+	 "channelType": "AFG",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/358"},
+ "Pashto":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/pp/pashto_tv.png",
+	 "channelType": "AFG",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/357"},
+ "RTA":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/rr/rta_radio_tv_af.png",
+	 "channelType": "AFG",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/189"},
+ "PTH Afghan":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/pp/pth_afghan_tv.png",
+	 "channelType": "AFG",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/763"},
+ "Payam-e-Afghan":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/pp/payame_afghan_tv_us.png",
+	 "channelType": "AFG",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/190"},
+ "Zarin TV":
+	{"iconimage":"http://chiragjhaveri.com/logos/zarintv.png",
+	 "channelType": "AFG",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/186"},
+ "Iman TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ii/iman_tv_us.png",
+	 "channelType": "AFG",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/338"},
+ "IRIB 1":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ii/irib1.png",
+	 "channelType": "AFG",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/526"},
+ "IRIB 2":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ii/irib2.png",
+	 "channelType": "AFG",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/527"},
+ "IRIB 3":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ii/irib3.png",
+	 "channelType": "AFG",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/528"},
+ "IRIB 4":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ii/irib4.png",
+	 "channelType": "AFG",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/529"},
+ "IRIB 5":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ii/irib5.png",
+	 "channelType": "AFG",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/530"},
+ "Pooya TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/pp/pooya_tv_ir.png",
+	 "channelType": "AFG",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/627"},
+ "Gem Bollywood":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/gg/gem_bollywood_ae.png",
+	 "channelType": "AFG",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/775"},
+ "Gem TV":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/gg/gem_tv_ae.png",
+	 "channelType": "AFG",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/534"},
+ "Gem TV USA":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/gg/gem_usa.png",
+	 "channelType": "AFG",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/535"},
+ "Gem Junior":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/gg/gem_junior_ae.png",
+	 "channelType": "AFG",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/537"},
+ "Gem Travel":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/gg/gem_travel_ae.png",
+	 "channelType": "AFG",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/746"},
+ "Gem River":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/gg/gem_river_ae.png",
+	 "channelType": "AFG",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/749"},
+ "Gem Mifa Music":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/mm/mifa_music_hd.png",
+	 "channelType": "AFG",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/750"},
+ "Gem Life":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/gg/gem_life_ae.png",
+	 "channelType": "AFG",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/751"},
+ "BBC Persian":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/bb/bbc_persian.png",
+	 "channelType": "AFG",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/542"},
+ "BBC News":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/bb/bbc_world_news.png",
+	 "channelType": "ENG",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://ferrarilb.jemtv.com/index.php/2_4/gxml/play/172"},
+ "CNN":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/cc/cnn_international_europe.png",
+	 "channelType": "ENG",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD177_W_350.sdp/playlist.m3u8"},     
+ "Sky Sports 1":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports1.png",
+	 "channelType": "SPO",
+     "channelSource": "JADOO",
+	 "channelUrl": "rtmpe://46.246.29.160:1935/l swfUrl=http://hdcast.org/eplayer.swf live=1 pageUrl=http://www.hdcast.org/embedlive4.php?u=sskys1&vw=650&vh=470&domain=cricbox.tv/amine1313dz token=Fo5_n0w?U.rA6l3-70w47ch playpath=sskys1"},
+ "Sky Sports 2":    
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports2.png",
+	 "channelType": "SPO",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/326"},
+ "Sky Sports 3":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports3.png",
+	 "channelType": "SPO",
+     "channelSource": "OTHER",
+	 "channelUrl": "rtmpe://46.246.29.160:1935/l swfUrl=http://hdcast.org/eplayer.swf live=1 pageUrl=http://www.hdcast.org/embedlive4.php?u=sskys3&amp;vw=650&amp;vh=470&amp;domain=cricbox.tv/amine1313dz token=Fo5_n0w?U.rA6l3-70w47ch playpath=sskys3"},
+ "Sky Sports 4":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports4.png",
+	 "channelType": "SPO",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/315"},
+ "Sky Sports 5":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports5.png",
+	 "channelType": "SPO",
+     "channelSource": "OTHER",
+	 "channelUrl": "rtmpe://46.246.29.160:1935/l swfUrl=http://hdcast.org/eplayer.swf live=1 pageUrl=http://www.hdcast.org/embedlive4.php?u=sskys5&vw=650&vh=470&domain=cricbox.tv/amine1313dz token=Fo5_n0w?U.rA6l3-70w47ch playpath=sskys5"},
+ "Sports Net 360":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/sportsnet_360.png",
+	 "channelType": "SPO",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8"},
+ "Tom Jerry":    
+	{"iconimage":"http://imagesci.com/img/2013/17/tom-and-jerry-logo-458-hd-wallpapers.jpg",
+	 "channelType": "KID",
+     "channelSource": "OTHER",
+	 "channelUrl": "rtmp://66.90.111.2/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html live=1 swfVfy=1 timeout=10"},
+ "Cartoon Network":    
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png",
+	 "channelType": "KID",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_350.sdp/playlist.m3u8"},
+ "Pogo":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/pp/pogo.png",
+	 "channelType": "KID",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD29_W_350.sdp/playlist.m3u8"},
+ "Topper Learning":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/tt/topper_tv_in.png",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlstelnews-lh.akamaihd.net/i/ams28_topper@127854/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Cricket World Cup 2015 Link 1":
+	{"iconimage":"http://chiragjhaveri.com/logos/Cricket_World_Cup_Logo_1.png",
+	 "channelType": "SPO",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://jpxml.jadootv.com/vuxml.php/jadooxml/play/326"}, 
+ "Cricket World Cup 2015 Link 2":
+	{"iconimage":"http://chiragjhaveri.com/logos/Cricket_World_Cup_Logo_2.png",
+	 "channelType": "SPO",
+     "channelSource": "OTHER",
+	 "channelUrl": "rtmpe://46.246.29.160:1935/l swfUrl=http://hdcast.org/eplayer.swf live=1 pageUrl=http://www.hdcast.org/embedlive4.php?u=sskys2&vw=650&vh=470&domain=cricbox.tv/amine1313dz token=Fo5_n0w?U.rA6l3-70w47ch playpath=sskys2"},
+ "Cricket World Cup 2015 Link 3":
+	{"iconimage":"http://chiragjhaveri.com/logos/Cricket_World_Cup_Logo_3.png",
+    "channelSource": "OTHER",
+	 "channelType": "SPO",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://81.95.151.212:1935/mobile/stream2_240p/playlist.m3u8?799e-474b0-9199-f8434"},
+ "Cricket World Cup 2015 Link 4":
+	{"iconimage":"http://chiragjhaveri.com/logos/Cricket_World_Cup_Logo_4.png",
+    "channelSource": "OTHER",
+	 "channelType": "SPO",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://206.190.151.26:1935/mobile/stream2_160p/playlist.m3u8?799e-474b0-9199-f8434"},
+ "PTV Sports":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/pp/ptv_sports_pk.png",
+    "channelSource": "OTHER",
+	 "channelType": "SPO",
+     "channelSource": "JADOO",
+	 "channelUrl": "http://myjadoo.jadootv.com/box/playVideo.php?playUrl=rtmp://guangzhoulivefs.fplive.net/guangzhoulive-live/stream326?securitytype=2"}
+}
