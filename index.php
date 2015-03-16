@@ -55,17 +55,17 @@ if ($result->num_rows > 0) {
     
     $json = file_get_contents('http://xceltv.googlecode.com/svn/trunk/plugin.video.xceltv/4_channels.json'); 
     $data = json_decode($json);
-  //header('Content-type: application/json');
-  //header("Location: http://xceltv.googlecode.com/svn/trunk/plugin.video.xceltv/4_channels.json");
-  // echo json_encode($data,JSON_PRETTY_PRINT);
-  // echo str_replace('\/','/',json_encode($data,JSON_PRETTY_PRINT));
+  header('Content-type: application/json');
+  header("Location: http://xceltv.googlecode.com/svn/trunk/plugin.video.xceltv/4_channels.json");
+   echo json_encode($data,JSON_PRETTY_PRINT);
+   echo str_replace('\/','/',json_encode($data,JSON_PRETTY_PRINT));
       
   //  $fp = fopen('results.json', 'w');
   //fwrite($fp, json_encode($data,JSON_PRETTY_PRINT ));
   //fclose($fp);
   
-  $jsonstring = json_encode($data);
-echo $jsonstring;
+  // $jsonstring = json_encode($data);
+  //echo $jsonstring;
     
 } else {
     echo "0 results";
