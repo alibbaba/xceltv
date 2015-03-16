@@ -59,6 +59,10 @@ if ($result->num_rows > 0) {
   //header("Location: http://xceltv.googlecode.com/svn/trunk/plugin.video.xceltv/4_channels.json");
   // echo json_encode($data,JSON_PRETTY_PRINT);
       echo str_replace('\/','/',json_encode($data,JSON_PRETTY_PRINT));
+      
+      $fp = fopen('results.json', 'w');
+fwrite($fp, json_encode($data,JSON_PRETTY_PRINT ));
+fclose($fp);
     
 } else {
     echo "0 results";
