@@ -53,7 +53,7 @@ if ($result->num_rows > 0) {
         
     }
     
-    $json = file_get_contents('Location: http://xceltv.googlecode.com/svn/trunk/plugin.video.xceltv/4_channels.json'); 
+    $json = file_get_contents('http://xceltv.googlecode.com/svn/trunk/plugin.video.xceltv/4_channels.json'); 
     $data = json_decode($json);
     header('Content-type: application/json');
   //header("Location: http://xceltv.googlecode.com/svn/trunk/plugin.video.xceltv/4_channels.json");
