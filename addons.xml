@@ -1,6 +1,6 @@
 
 <addons>
-<addon id="plugin.video.xceltv" name="xceltv" version="1.0.5" provider-name="xceltv">
+<addon id="plugin.video.xceltv" name="xceltv" version="1.0.7" provider-name="xceltv">
 <requires>
 <import addon="xbmc.python" version="2.1.0"/>
 <import addon="script.module.simplejson"/>
