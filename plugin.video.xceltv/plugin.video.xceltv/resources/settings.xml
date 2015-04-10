@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>		
+	<category label="Live TV">
+		<setting id="tvShowsSource" label="Choose TV Shows source" type="enum" default="0" visible="false" lvalues="30005|30006"/>		
+        
+        <setting id="drShowHindiChannels" label="Hindi" type="bool" default="true" />
+        <setting id="drShowTeluguChannels" label="Telugu" type="bool" default="false" />
+        <setting id="drShowTamilChannels" label="Tamil" type="bool" default="false" />
+        <setting id="drShowKannadaChannels" label="Kannada" type="bool" default="false" />
+        <setting id="drShowMalayalamChannels" label="Malayalam" type="bool" default="false" />
+        <setting id="drShowMarathiChannels" label="Marathi" type="bool" default="false" />
+        <setting id="drShowBengaliChannels" label="Bengali" type="bool" default="false" />
+        <setting id="drShowPunjabiChannels" label="Punjabi" type="bool" default="false" />
+        <setting id="drShowOriyaChannels" label="Oriya" type="bool" default="false" />
+        <setting id="drShowGujaratiChannels" label="Gujarati" type="bool" default="false" />
+        <setting id="drShowUrduChannels" label="Urdu" type="bool" default="false" />
+        <setting id="drShowBanglaChannels" label="Bangla" type="bool" default="false" />        
+        <setting id="drShowBhojpuriChannels" label="Bhojpuri" type="bool" default="false" />
+        <setting id="drShowSportsChannels" label="Sports" type="bool" default="true" />
+        <setting id="drShowEnglishChannels" label="English" type="bool" default="true" />
+        <setting id="drShowKidsChannels" label="Kids" type="bool" default="true" />
+        <setting id="drShowNepaleseChannels" label="Nepalese" type="bool" default="false" />
+        <setting id="drShowAfghanChannels" label="Afghan" type="bool" default="false" />
+
+	</category>
+
+	<category label="Video">
+		<setting label="[B]Playback[/B]" type="lsep" />
+		<setting id="playbackqual" label="Select preferred playback video quality" type="enum" default="0" lvalues="30021|30022|30023"/>
+		<setting id="wishDisplayed" type="text" label="WISH" default="hide" visible="false"/>
+	</category>
+	<category label="View">
+		<setting id="theme" type="enum" label="Theme" default="1" lvalues="30031|30032" />
+		<setting label="[B]Controls[/B]" type="lsep" />
+		<setting id="displayBackControl" label="Display BACK button" type="bool" default="false" />
+	</category>
+</settings>
