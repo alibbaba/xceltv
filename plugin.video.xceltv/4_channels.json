@@ -1642,5 +1642,5 @@
     {"iconimage":"http://www.gbs.com.ua/data/image/portfolio/logo_test.jpg",
      "channelType": "IND",
      "channelSource": "OTHER",
-     "channelUrl": "http://128.199.229.164:8081/game/cricket/playlist.m3u8"}
+     "channelUrl": "http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVDANCE/variant.m3u8"}
 }
