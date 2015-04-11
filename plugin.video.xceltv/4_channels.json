@@ -1637,7 +1637,7 @@
     {"iconimage":"http://www.gbs.com.ua/data/image/portfolio/logo_test.jpg",
      "channelType": "IND",
      "channelSource": "OTHER",
-     "channelUrl": "rtmp://63.237.48.3:1935/live/MBC_BOLLYWOOD"},
+     "channelUrl": "rtmp://63.237.48.3:1935/live/MBC_BOLLYWOOD|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
  "Test Link 2":
     {"iconimage":"http://www.gbs.com.ua/data/image/portfolio/logo_test.jpg",
      "channelType": "IND",
