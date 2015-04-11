@@ -1636,8 +1636,8 @@
  "Test Link 1":
     {"iconimage":"http://www.gbs.com.ua/data/image/portfolio/logo_test.jpg",
      "channelType": "IND",
-     "channelSource": "SOFTMAG",
-     "channelUrl": "http://109.200.20.28:1918/magnate/willow170/playlist.m3u8?wmsAuthSign="},
+     "channelSource": "OTHER",
+     "channelUrl": "rtmp://63.237.48.3:1935/live/MBC_BOLLYWOOD"},
  "Test Link 2":
     {"iconimage":"http://www.gbs.com.ua/data/image/portfolio/logo_test.jpg",
      "channelType": "IND",
