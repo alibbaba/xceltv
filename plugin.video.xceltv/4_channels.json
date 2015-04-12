@@ -1637,7 +1637,7 @@
     {"iconimage":"http://www.gbs.com.ua/data/image/portfolio/logo_test.jpg",
      "channelType": "IND",
      "channelSource": "OTHER",
-     "channelUrl": "rtmp://cdn.cast-tv.us/stream playpath=z00012.stream swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://imveoh.info/embed.php?n=z00012 token=#ed%h0#w@1"},
+     "channelUrl": "http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?"},
  "Test Link 2":
     {"iconimage":"http://www.gbs.com.ua/data/image/portfolio/logo_test.jpg",
      "channelType": "IND",
