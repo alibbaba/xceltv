@@ -1637,7 +1637,7 @@
     {"iconimage":"http://www.gbs.com.ua/data/image/portfolio/logo_test.jpg",
      "channelType": "IND",
      "channelSource": "OTHER",
-     "channelUrl": "rtmp://63.237.48.3:1935/live/MBC_BOLLYWOOD|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+     "channelUrl": "rtmp://cdn.cast-tv.us/stream playpath=z00012.stream swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://imveoh.info/embed.php?n=z00012 token=#ed%h0#w@1"},
  "Test Link 2":
     {"iconimage":"http://www.gbs.com.ua/data/image/portfolio/logo_test.jpg",
      "channelType": "IND",
