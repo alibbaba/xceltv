@@ -81,13 +81,13 @@
  "AajTak Link 2":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/aa/aaj_tak.png",
 	 "channelType": "IND",
-     "channelSource": "JADOO",
-	 "channelUrl": "http://ferrarilb.jemtv.com/index.php/2_4/gxml/play/264"},
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlshinnews-lh.akamaihd.net/i/ams2_aajtak@124566/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
  "AajTak Link 3":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/aa/aaj_tak.png",
 	 "channelType": "IND",
-     "channelSource": "OTHER",
-	 "channelUrl": "http://hlshinnews-lh.akamaihd.net/i/ams2_aajtak@124566/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+     "channelSource": "JADOO",
+	 "channelUrl": "http://ferrarilb.jemtv.com/index.php/2_4/gxml/play/264"},
  "Zee News Link 1":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/zz/zee_news_in.png",
 	 "channelType": "IND",
@@ -232,7 +232,7 @@
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/nn/ndtv_24x7.png",
 	 "channelType": "IND",
      "channelSource": "OTHER",
-	 "channelUrl": "http://bglive-a.bitgravity.com/ndtv/247hi/live/native"},
+	 "channelUrl": "http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/ndtv247live.smil/playlist.m3u8"},
  "NDTV India":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/nn/ndtv_india.png",
 	 "channelType": "IND",
@@ -728,6 +728,11 @@
 	 "channelType": "PUN",
      "channelSource": "OTHER",
 	 "channelUrl": "http://164.100.49.24:8080/hls-live/livepkgr/_definst_/ddpunjabi.m3u8"},
+ "Dekho TV Link 1":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/dd/dekho_tv_uk.png",
+	 "channelType": "PAK",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://hlsotherextra-lh.akamaihd.net/i/hls22_dekhotv@127509/master.m3u8|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
  "Times Link 1":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ee/express_times_pk.png",
 	 "channelType": "PAK",
@@ -1892,10 +1897,10 @@
     {"iconimage":"http://www.gbs.com.ua/data/image/portfolio/logo_test.jpg",
      "channelType": "IND",
      "channelSource": "OTHER",
-     "channelUrl": "http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?"},
+     "channelUrl": "http://brightcove.vo.llnwd.net/v1/uds/pd/3588749423001/201504/3993/3588749423001_4192336185001_DD-vs-MI-HIGH.mp4"},
  "Test Link 2":
     {"iconimage":"http://www.gbs.com.ua/data/image/portfolio/logo_test.jpg",
      "channelType": "IND",
-     "channelSource": "JINNAH",
-     "channelUrl": "http://brightcove.vo.llnwd.net/v1/uds/pd/3588749423001/201504/3851/3588749423001_4187357351001_SUPER-OVER.mp4"}
+     "channelSource": "OTHER",
+     "channelUrl": "http://s2.desitv.ml:8081/live/colors/playlist.m3u8"}
 }
