@@ -32,7 +32,12 @@
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/dd/dd_lok_sabha.png",
 	 "channelType": "IND",
      "channelSource": "OTHER",
-	 "channelUrl": "http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD3_W_350.sdp/playlist.m3u8"},     
+	 "channelUrl": "http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD3_W_350.sdp/playlist.m3u8"},   
+ "CNBC TV18":
+	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/cc/cnbc_tv18.png",
+	 "channelType": "IND",
+     "channelSource": "OTHER",
+	 "channelUrl": "rtsp://web18.live-s.cdn.bitgravity.com/cdn-live-b3/_definst_/web18/live/pub08"},
  "10xJalwa Link 1":
 	{"iconimage":"http://zeritv.com/logos/10xjalwa.png",
 	 "channelType": "IND",
@@ -77,7 +82,7 @@
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/aa/aaj_tak.png",
 	 "channelType": "IND",
      "channelSource": "OTHER",
-	 "channelUrl": "http://akamaihd.wowzahls1.yuppcdn.net/hls/aajtak/aajtak.m3u8|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"}, 
+	 "channelUrl": "http://akamaihd.wowzahls1.yuppcdn.net/live/aajtak/chunklist.m3u8|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"}, 
  "AajTak Link 2":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/aa/aaj_tak.png",
 	 "channelType": "IND",
@@ -1708,16 +1713,6 @@
 	 "channelType": "ENG",
      "channelSource": "OTHER",
 	 "channelUrl": "http://185.27.237.105:8082/TV0056"},
- "HBO":
-	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/hh/hbo_east.png",
-	 "channelType": "ENG",
-     "channelSource": "OTHER",
-	 "channelUrl": "http://50.7.69.186:1935/edge/_definst_/qzbbu26gcvjxksz/chunklist.m3u8?wowzasessionid=1419847602"},
- "HBO Comedy":
-	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/hh/hbo_comedy_ceu.png",
-	 "channelType": "ENG",
-     "channelSource": "OTHER",
-	 "channelUrl": "http://50.7.69.186:1935/edge/_definst_/a1wn1j3ra1w0cv0/chunklist.m3u8?wowzasessionid=1419915335"},
  "Animal Planet Link 1":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/aa/animal_planet_us.png",
 	 "channelType": "ENG",
@@ -1907,10 +1902,10 @@
     {"iconimage":"http://www.gbs.com.ua/data/image/portfolio/logo_test.jpg",
      "channelType": "IND",
      "channelSource": "OTHER",
-     "channelUrl": "http://brightcove.vo.llnwd.net/v1/uds/pd/3588749423001/201504/3993/3588749423001_4192336185001_DD-vs-MI-HIGH.mp4"},
+     "channelUrl": "http://web18.live-s.cdn.bitgravity.com/cdn-live/_definst_/web18/live/secure/cnbc-tv18_hd.smil/playlist.m3u8?e=1430268295&h=79fa9e249e9edcc917f862c3eff0ae09&bgsecuredir=1"},
  "Test Link 2":
     {"iconimage":"http://www.gbs.com.ua/data/image/portfolio/logo_test.jpg",
      "channelType": "IND",
      "channelSource": "OTHER",
-     "channelUrl": "http://s2.desitv.ml:8081/live/colors/playlist.m3u8"}
+     "channelUrl": "http://web18.live-s.cdn.bitgravity.com/cdn-live/_definst_/web18/live/secure/Cnbc-Awaaz_hd.smil/playlist.m3u8?e=1430268336&h=498426d498d150571bb8b40f953c9e7d&bgsecuredir=1"}
 }
