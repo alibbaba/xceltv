@@ -902,7 +902,7 @@
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/jj/jaya_tv_in.png",
 	 "channelType": "TAM",
      "channelSource": "OTHER",
-	 "channelUrl": "http://hlstament-lh.akamaihd.net/i/ams30_jayatv@127860/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+	 "channelUrl": "http://hlsent5-lh.akamaihd.net/i/ams52_jayatv@318180/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
  "Raj Musix":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/rr/raj_musix.png",
 	 "channelType": "TAM",
@@ -912,7 +912,7 @@
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/sun_tv_in.png",
 	 "channelType": "TAM",
      "channelSource": "OTHER",
-	 "channelUrl": "http://hlstament-lh.akamaihd.net/i/ams30_suntv@127865/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+	 "channelUrl": "http://hlsent5-lh.akamaihd.net/i/ams52_suntv@318185/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
  "KTV":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/sun_kondattam_tv.png",
 	 "channelType": "TAM",
@@ -927,22 +927,22 @@
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/mm/makkal_tv.png",
 	 "channelType": "TAM",
      "channelSource": "OTHER",
-	 "channelUrl": "http://hlstament-lh.akamaihd.net/i/ams13_makkaltv@124741/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+	 "channelUrl": "http://hlsent5-lh.akamaihd.net/i/ams52_makkaltv@318181/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
  "Raj TV":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/rr/raj_tv.png",
 	 "channelType": "TAM",
      "channelSource": "OTHER",
-	 "channelUrl": "http://hlstamextra-lh.akamaihd.net/i/hls5_rajtv2@65345/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+	 "channelUrl": "http://hlsent5-lh.akamaihd.net/i/ams52_rajtv@318177/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
  "Raj Digital Plus":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/rr/raj_digital_plus.png",
 	 "channelType": "TAM",
      "channelSource": "OTHER",
-	 "channelUrl": "http://hlstament-lh.akamaihd.net/i/hls3_rajdigitalplus7@65321/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+	 "channelUrl": "http://hlsent5-lh.akamaihd.net/i/ams52_rajdigitalplus@318176/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
  "Jaya Max":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/jj/jaya_max.png",
 	 "channelType": "TAM",
      "channelSource": "OTHER",
-	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/blore6_jayamax11@131920/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+	 "channelUrl": "http://hlsent5-lh.akamaihd.net/i/ams52_jayamax@318174/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
  "Jaya Plus Tamil":
 	{"iconimage":"http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/jayaplus.jpg",
 	 "channelType": "TAM",
@@ -952,7 +952,7 @@
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/jj/j_movie_in.png",
 	 "channelType": "TAM",
      "channelSource": "OTHER",
-	 "channelUrl": "http://hlstament-lh.akamaihd.net/i/ams30_jayamovies@127863/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+	 "channelUrl": "http://hlsent5-lh.akamaihd.net/i/ams52_jayamovies@318179/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
  "Star Vijay":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/star_vijay_in.png",
 	 "channelType": "TAM",
@@ -987,7 +987,7 @@
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/kk/kalaignar_sirippoli.png",
 	 "channelType": "TAM",
      "channelSource": "OTHER",
-	 "channelUrl": "http://hlstament-lh.akamaihd.net/i/ams13_sirippolitv@124745/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+	 "channelUrl": "http://hlsent5-lh.akamaihd.net/i/ams52_sirippolitv@318178/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
  "Chithiram TV":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/kk/kalaignar_chithiram.png",
 	 "channelType": "TAM",
@@ -997,7 +997,7 @@
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/cc/captain_tv.png",
 	 "channelType": "TAM",
      "channelSource": "OTHER",
-	 "channelUrl": "http://hlsotherextra-lh.akamaihd.net/i/ams26_captaintv@127500/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+	 "channelUrl": "http://hlsent5-lh.akamaihd.net/i/ams52_captaintv@318172/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
  "Captain News":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/cc/captain_news_in.png",
 	 "channelType": "TAM",
@@ -1007,17 +1007,17 @@
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/sri_sankara.png",
 	 "channelType": "TAM",
      "channelSource": "OTHER",
-	 "channelUrl": "http://hlstament-lh.akamaihd.net/i/ams30_srisankaratam@127864/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},    
+	 "channelUrl": "http://hlsent5-lh.akamaihd.net/i/ams52_srisankaratam@318184/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},    
  "Isai Aruvi":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/kk/kalaignar_isai_aruvi.png",
 	 "channelType": "TAM",
      "channelSource": "OTHER",
-	 "channelUrl": "http://hlstament-lh.akamaihd.net/i/ams13_isaiaruvitv@124746/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+	 "channelUrl": "http://hlsent5-lh.akamaihd.net/i/ams52_isaiaruvitv@318173/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
  "Murasu":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/kk/kalaignar_murasu.png",
 	 "channelType": "TAM",
      "channelSource": "OTHER",
-	 "channelUrl": "http://hlstament-lh.akamaihd.net/i/ams13_murasu@124747/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},     
+	 "channelUrl": "http://hlsent5-lh.akamaihd.net/i/ams52_murasu@318175/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},     
  "Sun TV US":
 	{"iconimage":"http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/sun_ustime.jpg",
 	 "channelType": "TAM",
@@ -1823,6 +1823,11 @@
 	 "channelType": "KID",
      "channelSource": "OTHER",
 	 "channelUrl": "http://hlstelnews-lh.akamaihd.net/i/ams28_topper@127854/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ "Mayweather Vs Pacquiao":
+	{"iconimage":"https://cdn3.vox-cdn.com/thumbor/EQQMVaDGcVy2pnFc6tV7v4KN4OE=/cdn0.vox-cdn.com/uploads/chorus_asset/file/3430322/MayweatherPromo_2015-Feb-20.0.jpg",
+	 "channelType": "SPO",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://128.199.229.164:8081/game/cricket/playlist.m3u8"},
  "IPL Link 1":
 	{"iconimage":"http://zeritv.com/logos/IPL_Logo_1.png",
 	 "channelType": "SPO",
