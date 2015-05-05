@@ -482,7 +482,7 @@
 	{"iconimage":"http://akamai.vidz.zeecdn.com/zeedigital/AndTV/domain-data/logo/andtv-logo-pink-1421822560.png",
 	 "channelType": "IND",
      "channelSource": "OTHER",
-	 "channelUrl": "http://akamaihd.wowzahls24.yuppcdn.net/hls/zeecafeuk/zeecafeuk.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+	 "channelUrl": "http://hlsengent-lh.akamaihd.net/i/hls25_zeecafeuk29@4903/master.m3u8/?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
  "Zing TV":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/zz/zee_zing_asia.png",
 	 "channelType": "IND",
