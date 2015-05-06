@@ -407,7 +407,7 @@
 	{"iconimage":"http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/mtv_india_roku.jpg",
 	 "channelType": "IND",
      "channelSource": "OTHER",
-	 "channelUrl": "http://akamaihd.wowzahls13.yuppcdn.net/hls/mtvau/mtvau.m3u8|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/blore4_mtvau4@35911/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
  "Sanskar TV":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/sanskar_tv.png",
 	 "channelType": "IND",
@@ -417,7 +417,7 @@
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/bb/bindass_play_in.png",
 	 "channelType": "IND",
      "channelSource": "OTHER",
-	 "channelUrl": "http://akamaihd.wowzahls4.yuppcdn.net/hls/utvstars/utvstars.m3u8|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+	 "channelUrl": "http://akamaihd.wowzahls4.yuppcdn.net/live/utvstars/chunklist.m3u8|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
  "UTV Bindass":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/bb/bindass_in.png",
 	 "channelType": "IND",
