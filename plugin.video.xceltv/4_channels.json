@@ -317,7 +317,7 @@
 	{"iconimage":"http://zeritv.com/logos/zee_tv_uk.png",
 	 "channelType": "IND",
      "channelSource": "OTHER",
-	 "channelUrl": "http://akamaihd.wowzahls24.yuppcdn.net/hls/zeetvuk/zeetvuk.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+	 "channelUrl": "http://hlshinextra-lh.akamaihd.net/i/ams21_zeetvuk@126841/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
  "Zee Cinema APAC":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/zz/zee_cinema_asia.png",
 	 "channelType": "IND",
