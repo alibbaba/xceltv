@@ -1903,14 +1903,26 @@
 	 "channelType": "SPO",
      "channelSource": "SOFTMAG",
 	 "channelUrl": "http://109.200.20.28:1918/magnate/willow170/playlist.m3u8?wmsAuthSign="}, 
- "Test Link 1":
-    {"iconimage":"http://www.gbs.com.ua/data/image/portfolio/logo_test.jpg",
-     "channelType": "IND",
+ "Travel Channel":
+    {"iconimage":"http://www.adweek.com/files/imagecache/node-blog/sa_article/travel-logo-484.jpg",
+     "channelType": "ENG",
      "channelSource": "OTHER",
-     "channelUrl": "http://web18.live-s.cdn.bitgravity.com/cdn-live/_definst_/web18/live/secure/cnbc-tv18_hd.smil/playlist.m3u8?e=1430268295&h=79fa9e249e9edcc917f862c3eff0ae09&bgsecuredir=1"},
+     "channelUrl": "http://live.zoptv.com/filmon/master.m3u8?id=842"},
  "Yesterday":
     {"iconimage":"http://yesterday.uktv.co.uk/static/img/default_image.jpg",
      "channelType": "ENG",
      "channelSource": "OTHER",
-     "channelUrl": "http://live.zoptv.com/filmon/master.m3u8?id=1039"}
+     "channelUrl": "http://live.zoptv.com/filmon/master.m3u8?id=1039"},
+  "Really":
+    {"iconimage":"http://res.cloudinary.com/uktv/image/upload/b_rgb:000000,w_660,h_371,c_fill,q_75/v1421922525/zltnj3xpcqe1yp7e2h3s.jpg",
+     "channelType": "ENG",
+     "channelSource": "OTHER",
+     "channelUrl": "http://live.zoptv.com/filmon/master.m3u8?id=372"},
+   "Bloomberg UK":
+    {"iconimage":"http://www.cinemablend.com/images/sections/32634/comcast_32634.jpg",
+     "channelType": "ENG",
+     "channelSource": "OTHER",
+     "channelUrl": "http://live.zoptv.com/filmon/master.m3u8?id=81"},
+ 
+     
 }
