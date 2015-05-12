@@ -1908,9 +1908,9 @@
      "channelType": "IND",
      "channelSource": "OTHER",
      "channelUrl": "http://web18.live-s.cdn.bitgravity.com/cdn-live/_definst_/web18/live/secure/cnbc-tv18_hd.smil/playlist.m3u8?e=1430268295&h=79fa9e249e9edcc917f862c3eff0ae09&bgsecuredir=1"},
- "Test Link 2":
-    {"iconimage":"http://www.gbs.com.ua/data/image/portfolio/logo_test.jpg",
-     "channelType": "IND",
+ "Yesterday":
+    {"iconimage":"http://yesterday.uktv.co.uk/static/img/default_image.jpg",
+     "channelType": "ENG",
      "channelSource": "OTHER",
-     "channelUrl": "http://web18.live-s.cdn.bitgravity.com/cdn-live/_definst_/web18/live/secure/Cnbc-Awaaz_hd.smil/playlist.m3u8?e=1430268336&h=498426d498d150571bb8b40f953c9e7d&bgsecuredir=1"}
+     "channelUrl": "http://live.zoptv.com/filmon/master.m3u8?id=1039"}
 }
