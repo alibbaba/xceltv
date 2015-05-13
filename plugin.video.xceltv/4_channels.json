@@ -1928,5 +1928,9 @@
      "channelType": "ENG",
      "channelSource": "OTHER",
      "channelUrl": "rtmp://109.200.202.124/live playpath=hbo2 swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/hbo2.html timeout=15"}
-   
+    "HBO Family":
+    {"iconimage":"http://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",
+     "channelType": "ENG",
+     "channelSource": "OTHER",
+     "channelUrl": "rtmp://109.200.202.124/live playpath=hbofamily swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/hbofamily.html timeout=15"}
 }
