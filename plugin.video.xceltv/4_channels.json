@@ -1937,5 +1937,10 @@
     {"iconimage":"http://filmovinadlanu.com/_bd/2/46209146.gif",
      "channelType": "ENG",
      "channelSource": "OTHER",
-     "channelUrl": "http://live.zoptv.com/filmon/master.m3u8?id=1808"}
+     "channelUrl": "http://live.zoptv.com/filmon/master.m3u8?id=1808"},
+ "MGM HD":
+    {"iconimage":"http://i.ytimg.com/vi/WsXI5-7O-s4/maxresdefault.jpg",
+     "channelType": "ENG",
+     "channelSource": "OTHER",
+     "channelUrl": "http://bit.do/4z6H"}
 }
