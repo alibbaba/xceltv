@@ -567,7 +567,7 @@
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/aa/abn_in.png",
 	 "channelType": "TEL",
      "channelSource": "OTHER",
-	 "channelUrl": "http://akamaihd.wowzahls.yuppcdn.net/hls/abn/abn.m3u8|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+	 "channelUrl": "http://akamaihd.wowzahls.yuppcdn.net/live/abn/chunklist.m3u8|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
  "Zee Telugu":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/zz/zee_telugu.png",
 	 "channelType": "TEL",
@@ -652,7 +652,7 @@
 	{"iconimage":"http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/maa_us.jpg",
 	 "channelType": "TEL",
      "channelSource": "OTHER",
-	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk_maatvus@180285/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},     
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk1_maamoviesus@180462/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},     
  "Gemini TV US":
 	{"iconimage":"http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/gemini_ustime.jpg",
 	 "channelType": "TEL",
