@@ -1947,5 +1947,10 @@
     {"iconimage":"http://www.liveonlineradio.net/wp-content/uploads/2010/11/Bollywood-Hungama.jpg",
      "channelType": "IND",
      "channelSource": "OTHER",
-     "channelUrl": "http://www.live365.com/play/bollywoodhungama"}
+     "channelUrl": "http://www.live365.com/play/bollywoodhungama"},
+"Xtra TV":
+    {"iconimage":"http://1.bp.blogspot.com/-6-LUEpAXF4o/U4IZD3jSmZI/AAAAAAAAARU/wi9nOt79jhU/s1600/Xtra+TV+Telugu+Live+Stream+Online+Free+Watch+Yupptv,+Youtube.jpg",
+     "channelType": "TEL",
+     "channelSource": "OTHER",
+     "channelUrl": "http://hlstelextra-lh.akamaihd.net/i/ams22_xtra@127483/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"}
 }
