@@ -17,7 +17,7 @@
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/num/9x_music.png",
 	 "channelType": "IND",
      "channelSource": "OTHER",
-	 "channelUrl": "http://akamaihd.wowzahls12.yuppcdn.net/hls/9xmusic/9xmusic.m3u8|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+	 "channelUrl": "http://hlshinextra-lh.akamaihd.net/i/ams4_9xm@124574/master.m3u8|User-Agent=Apache-HttpClient%2FUNAVAILABLE+%28java+1.4%29"},
  "DD National":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/dd/dd_national.png",
 	 "channelType": "IND",
