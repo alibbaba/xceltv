@@ -1881,7 +1881,7 @@
     {"iconimage":"http://www.cinemablend.com/images/sections/32634/comcast_32634.jpg",
      "channelType": "ENG",
      "channelSource": "OTHER",
-     "channelUrl": "http://live.zoptv.com/filmon/master.m3u8?id=81"},
+     "channelUrl": "http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$ timeout=10"},
       "HBO 2":
     {"iconimage":"http://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/422px-HBO_logo.svg.png",
      "channelType": "ENG",
