@@ -1903,4 +1903,9 @@
      "channelType": "TEL",
      "channelSource": "OTHER",
      "channelUrl": "http://hlstelextra-lh.akamaihd.net/i/ams22_xtra@127483/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"}
-}
+},
+"England Vs NZ 2015":
+	{"iconimage":"http://www.durhamccc.co.uk/assets/Image/durham_cricket/2015/ODI%20ENG%20v%20NZ%20web%20banner.jpg",
+	 "channelType": "SPO",
+     "channelSource": "OTHER",
+	 "channelUrl": "rtmpe://46.246.124.37:1935/livedge swfUrl=http://player.hdcast.org/_.swf live=1 pageUrl=http://www.hdcast.org/embedlive4.php?u=sskys2&domain=cricbox.tv/amine1313dz token=Fo5_n0w?U.rA6l3-70w47ch playpath=sskys2 timeout=10"},
