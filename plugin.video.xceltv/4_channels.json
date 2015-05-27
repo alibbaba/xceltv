@@ -1830,10 +1830,6 @@
      "channelSource": "OTHER",
 	 "channelUrl": "rtmpe://46.246.124.37:1935/livedge swfUrl=http://player.hdcast.org/_.swf live=1 pageUrl=http://www.hdcast.org/embedlive4.php?u=sskys2&domain=cricbox.tv/amine1313dz token=Fo5_n0w?U.rA6l3-70w47ch playpath=sskys2 timeout=10"},
 }, 
-	{"iconimage":"http://zeritv.com/logos/IPL_Logo_9.png",
-	 "channelType": "SPO",
-     "channelSource": "SOFTMAG",
-	 "channelUrl": "http://109.200.20.28:1918/magnate/22-OSN1-HD/playlist.m3u8?wmsAuthSign="},
  "Star Sports 1 Link 1":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png",
 	 "channelType": "SPO",
