@@ -1823,52 +1823,13 @@
 	 "channelType": "KID",
      "channelSource": "OTHER",
 	 "channelUrl": "http://hlstelnews-lh.akamaihd.net/i/ams28_topper@127854/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
- "Mayweather Vs Pacquiao":
-	{"iconimage":"https://cdn3.vox-cdn.com/thumbor/EQQMVaDGcVy2pnFc6tV7v4KN4OE=/cdn0.vox-cdn.com/uploads/chorus_asset/file/3430322/MayweatherPromo_2015-Feb-20.0.jpg",
-	 "channelType": "SPO",
-     "channelSource": "OTHER",
-	 "channelUrl": "http://128.199.229.164:8081/game/cricket/playlist.m3u8"},
- "IPL Link 1":
+},
+ "England Vs NZ 2015":
 	{"iconimage":"http://zeritv.com/logos/IPL_Logo_1.png",
 	 "channelType": "SPO",
      "channelSource": "OTHER",
-	 "channelUrl": "http://128.199.229.164:8081/game/cricket/playlist.m3u8"},
- "IPL Link 2":
-	{"iconimage":"http://zeritv.com/logos/IPL_Logo_2.png",
-	 "channelType": "SPO",
-     "channelSource": "OTHER",
-	 "channelUrl": "rtmp://80.82.78.85:443/liverepeater/10 token=#atd%#$ZH swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=19 live=true swfVfy=true timeout=10"},
- "IPL Link 3":
-	{"iconimage":"http://zeritv.com/logos/IPL_Logo_3.png",
-	 "channelType": "SPO",
-     "channelSource": "SOFTMAG",
-	 "channelUrl": "http://128.199.229.164:8081/game/cricket/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDE1IDEyOjQ1OjE5IFBNJmhhc2hfdmFsdWU9TEcwVEtnWCtVVTIvQngyQ3RvWjdjUT09JnZhbGlkbWludXRlcz0yMCZzdHJtX2xlbj0xMg=="},
- "IPL Link 4":
-	{"iconimage":"http://zeritv.com/logos/IPL_Logo_4.png",
-	 "channelType": "SPO",
-     "channelSource": "OTHER",
-	 "channelUrl": "rtmp://178.18.31.53:443/liverepeater/190614 swfUrl=http://bernardotv.club/fuckingcopy.swf pageUrl=http://biggestplayer.me/stream.php?id=190614 token=#atd%#$ZH live=1 timeout=20"},
- "IPL Link 5":
-	{"iconimage":"http://zeritv.com/logos/IPL_Logo_5.png",
-	 "channelType": "SPO",
-     "channelSource": "OTHER",
-	 "channelUrl": "rtmp://195.154.232.181:80/liverepeater playpath=303658 swfUrl=http://cdn.goodcast.co/players.swf live=1 token=Fo5_n0w?U.rA6l3-70w47ch timeout=15 swfVfy=1 pageUrl=http://goodcast.co/streamn.php?id=303658"},
- "IPL Link 6":
-	{"iconimage":"http://zeritv.com/logos/IPL_Logo_6.png",
-	 "channelType": "SPO",
-     "channelSource": "OTHER",
-	 "channelUrl": "rtmp://195.154.168.217:80/liverepeater playpath=303658 swfUrl=http://cdn.goodcast.co/players.swf live=1 token=Fo5_n0w?U.rA6l3-70w47ch timeout=15 swfVfy=1 pageUrl=http://goodcast.co/streamn.php?id=303658"},
- "IPL Link 7":
-	{"iconimage":"http://zeritv.com/logos/IPL_Logo_7.png",
-	 "channelType": "SPO",
-     "channelSource": "OTHER",
-	 "channelUrl": "rtmp://195.154.240.167:80/liverepeater playpath=305055 swfUrl=http://cdn.goodcast.co/players.swf live=1 token=Fo5_n0w?U.rA6l3-70w47ch timeout=15 swfVfy=1 pageUrl=http://goodcast.co/streamn.php?id=305055&width=640&height=460"},
- "IPL Link 8":
-	{"iconimage":"http://zeritv.com/logos/IPL_Logo_8.png",
-	 "channelType": "SPO",
-     "channelSource": "OTHER",
-	 "channelUrl": "rtmp://80.82.78.87:443/liverepeater/ playpath=48 token=#atd%#$ZH swfUrl=http://popeoftheplayers.pw/atdedead.swf live=1 timeout=13 pageUrl=http://popeoftheplayers.eu/"},
- "IPL Link 9":
+	 "channelUrl": "rtmpe://46.246.124.37:1935/livedge swfUrl=http://player.hdcast.org/_.swf live=1 pageUrl=http://www.hdcast.org/embedlive4.php?u=sskys2&domain=cricbox.tv/amine1313dz token=Fo5_n0w?U.rA6l3-70w47ch playpath=sskys2 timeout=10"},
+}, 
 	{"iconimage":"http://zeritv.com/logos/IPL_Logo_9.png",
 	 "channelType": "SPO",
      "channelSource": "SOFTMAG",
