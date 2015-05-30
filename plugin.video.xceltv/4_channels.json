@@ -1897,11 +1897,11 @@
      "channelType": "ENG",
      "channelSource": "OTHER",
      "channelUrl": "http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$ timeout=10"},
-      "HBO 2":
+      "HBO USA":
     {"iconimage":"http://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/422px-HBO_logo.svg.png",
      "channelType": "ENG",
      "channelSource": "OTHER",
-     "channelUrl": "http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8?"},
+     "channelUrl": "rtmp://watch4.streamlive.to:1935/edge app=edge/_definst_/?xs=_we_cXpiYnUyNmdjdmp4a3N6fDE0MzMwMTI5NzN8MTAxLjE3MC40Mi4xNDB8NTU2OTdlNGRkZmFmYnw2MGM5NWJjNWY1OWQ5YzY5Nzg2MjU4MDM2OTU3MDhmZjg5ZTRkZWM5 playpath=qzbbu26gcvjxksz swfVfy=1 token=L71ed4ad411bcd19a33e65e6abd353d1 swfUrl=https://www.streamlive.to/ads/"},
     "HBO Family":
     {"iconimage":"http://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",
      "channelType": "ENG",
