@@ -171,7 +171,7 @@
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/bb/b4u_music_in.png",
 	 "channelType": "IND",
      "channelSource": "EBOUND",
-	 "channelUrl": "discovery"},
+	 "channelUrl": "rtsp://218.248.64.82:1935/live/b4umusic_webA.sdp?token=9165651384"},
  "Star Movies Link 1":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/star_movies_in.png",
 	 "channelType": "IND",
