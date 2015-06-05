@@ -326,17 +326,17 @@
 	{"iconimage":"http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/zee_business_ustime_roku.jpg",
 	 "channelType": "IND",
      "channelSource": "OTHER",
-	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk4_zeebusinessus@180465/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+	 "channelUrl": "http://nwk6-lh.akamaihd.net/i/us6_zeebusinessus@321183/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
  "Zee Smile":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/zz/zee_smile.png",
 	 "channelType": "IND",
      "channelSource": "OTHER",
-	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk9_24@196603/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+	 "channelUrl": "http://nwk4-lh.akamaihd.net/i/us4_zeesmile@315953/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
  "Zee TV APAC":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/zz/zee_tv_in.png",
 	 "channelType": "IND",
      "channelSource": "OTHER",
-	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/blore5_zeetvapac1@35955/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+	 "channelUrl": "http://nwk5-lh.akamaihd.net/i/us5_zeetvapac@324735/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
  "Zee TV HD USA":
 	{"iconimage":"http://zeritv.com/logos/zee_tv_usa_hd.png",
 	 "channelType": "IND",
@@ -351,22 +351,22 @@
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/zz/zee_cinema_asia.png",
 	 "channelType": "IND",
      "channelSource": "OTHER",
-	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk4_zeecinemaapac@180465/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+	 "channelUrl": "ttp://nwk5-lh.akamaihd.net/i/us5_zeecinemaapac@324734/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
  "Zee Cinema USA":
 	{"iconimage":"http://zeritv.com/logos/zee_cinema_usa.png",
 	 "channelType": "IND",
      "channelSource": "OTHER",
-	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk4_zeecinema@180465/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+	 "channelUrl": "http://nwk4-lh.akamaihd.net/i/us4_zeecinema@315938/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
  "Zee Cinema UK":
 	{"iconimage":"http://zeritv.com/logos/zee_cinema_uk.png",
 	 "channelType": "IND",
      "channelSource": "OTHER",
-	 "channelUrl": "http://akamaihd.wowzahls11.yuppcdn.net/hls/zeecinemauk/zeecinemauk.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/uklive2_8@122677/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
  "Zee Classic":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/zz/zee_classic_in.png",
 	 "channelType": "IND",
      "channelSource": "OTHER",
-	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk5_zeeclassic@180466/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+	 "channelUrl": "http://nwk4-lh.akamaihd.net/i/us4_zeeclassic@315952/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
  "Mangalmaya":
 	{"iconimage":"http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/Mangalmaya_roku.jpg",
 	 "channelType": "IND",
@@ -521,12 +521,12 @@
 	{"iconimage":"http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/zing_ustime_roku.jpg",
 	 "channelType": "IND",
      "channelSource": "OTHER",
-	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk3_zingus@180464/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+	 "channelUrl": "http://nwk2-lh.akamaihd.net/i/us2_zing@315901/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
  "Zing TV UK":
 	{"iconimage":"http://zeritv.com/logos/zing_uk_time.png",
 	 "channelType": "IND",
      "channelSource": "OTHER",
-	 "channelUrl": "http://akamaihd.wowzahls24.yuppcdn.net/hls/zinguk/zinguk.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+	 "channelUrl": "http://hlsengextra-lh.akamaihd.net/i/hls26_zinguk22@4911/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
  "TEZ TV Link 1":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/tt/tez_tv_in.png",
 	 "channelType": "IND",
