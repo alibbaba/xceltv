@@ -391,7 +391,7 @@
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/zz/zee_action.png",
 	 "channelType": "IND",
      "channelSource": "OTHER",
-	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk5_zeeaction@180466/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+	 "channelUrl": "http://nwk4-lh.akamaihd.net/i/us4_zeeaction@315950/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
  "Sony Entertainment AU":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/set_in.png",
 	 "channelType": "IND",
