@@ -6,34 +6,17 @@
      "channelSource": "OTHER",
      "channelUrl": "http://200.76.77.237/LIVE/H01/CANAL256/PROFILE03.m3u8?"},
 
-"Sky Movies Premier":
-    {"iconimage":"http://www.sky.com/skyloyalty/export/sites/www.sky.com/products/__Images/ChannelLogos/premiere.png_1237299444.png",
-     "channelType": "ENG",
-     "channelSource": "OTHER",
-     "channelUrl": "http://31.220.41.102:80/LiveEdge/movpremier.stream/chunklist_w498903151_b1000000.m3u8?token=0c8984d09ae924155bbfe97b5bf75898"},
+
      
- "Film Zone":
-    {"iconimage":"http://www.thewrap.com/sites/default/files/Disney-Junior.jpeg",
-     "channelType": "KID",
-     "channelSource": "SOFTMAG",
-     "channelUrl": "http://31.220.41.107:80/LiveEdge/DisneyChannelEastHD/chunklist_w2145621608_b1000000.m3u8?"},
+
 "Radio Mirchi 98.3 FM":
 	{"iconimage":"http://img.xcitefun.net/users/2011/08/261089,xcitefun-radio-mirchi-98-3-fm-1.jpg",
 	 "channelType": "IND",
      "channelSource": "OTHER",
 	 "channelUrl": "rtmp://cp137781.live.edgefcs.net:1935/live/MeethiMirchi@16318 live=true"},
 	 
-"Fox Sports 1 US":
-	{"iconimage":"http://images.bwwstatic.com/columnpic6/2552C47B3-F1BB-2508-A19F4D90D9D00357.jpg",
-	 "channelType": "SPO",
-     "channelSource": "OTHER",
-	 "channelUrl": "http://31.220.41.103:80/LiveEdge/FoxSports1HD/chunklist_w1345358115_b1000000.m3u8?token=0ddabab5eb22727c95a7846ac27e65a2"},
 	 
-"French Open 2015":
-	{"iconimage":"http://s3.amazonaws.com/ustaassets/assets/650/15/french%20open%20logo.bmp",
-	 "channelType": "SPO",
-     "channelSource": "OTHER",
-	 "channelUrl": "http://31.220.40.105:80/LiveEdge/itv4.stream/chunklist_w745688731_b1000000.m3u8?token=a65e0e3ed8d17bb94a3c41f0943e058e"},
+
 "Radio City 91.9 FM":
 	{"iconimage":"http://www.adgully.com/image/2010-08-RadioCity-91.1-FM1.jpg",
 	 "channelType": "IND",
@@ -215,7 +198,7 @@
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png",
 	 "channelType": "ENG",
      "channelSource": "OTHER",
-	 "channelUrl": "http://31.220.40.100:80/LiveEdge/NatGeoUS/chunklist_w1117808674_b1000000.m3u8?token=cb80b0f78178096f04c212867daa7501"},
+	 "channelUrl": "non"},
  "Dubbed Movies":
 	{"iconimage":"http://1.bp.blogspot.com/-xSTpki60QIQ/UU4AJhDZnTI/AAAAAAAAAeI/AfZWgt52XfY/s320/dubbed-movies+123.jpg",
 	 "channelType": "IND",
