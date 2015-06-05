@@ -5,6 +5,13 @@
      "channelType": "ENG",
      "channelSource": "OTHER",
      "channelUrl": "http://200.76.77.237/LIVE/H01/CANAL256/PROFILE03.m3u8?"},
+
+"Sky Movies Premier":
+    {"iconimage":"http://www.sky.com/skyloyalty/export/sites/www.sky.com/products/__Images/ChannelLogos/premiere.png_1237299444.png",
+     "channelType": "ENG",
+     "channelSource": "OTHER",
+     "channelUrl": "http://31.220.41.102:80/LiveEdge/movpremier.stream/chunklist_w498903151_b1000000.m3u8?token=0c8984d09ae924155bbfe97b5bf75898"},
+     
  "Film Zone":
     {"iconimage":"http://www.thewrap.com/sites/default/files/Disney-Junior.jpeg",
      "channelType": "KID",
