@@ -21,6 +21,12 @@
 	 "channelType": "SPO",
      "channelSource": "OTHER",
 	 "channelUrl": "http://31.220.41.103:80/LiveEdge/FoxSports1HD/chunklist_w1345358115_b1000000.m3u8?token=0ddabab5eb22727c95a7846ac27e65a2"},
+	 
+"French Open 2015":
+	{"iconimage":"http://s3.amazonaws.com/ustaassets/assets/650/15/french%20open%20logo.bmp",
+	 "channelType": "SPO",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://31.220.40.105:80/LiveEdge/itv4.stream/chunklist_w745688731_b1000000.m3u8?token=a65e0e3ed8d17bb94a3c41f0943e058e"},
 "Radio City 91.9 FM":
 	{"iconimage":"http://www.adgully.com/image/2010-08-RadioCity-91.1-FM1.jpg",
 	 "channelType": "IND",
