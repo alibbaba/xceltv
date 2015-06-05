@@ -6,10 +6,10 @@
      "channelSource": "OTHER",
      "channelUrl": "http://200.76.77.237/LIVE/H01/CANAL256/PROFILE03.m3u8?"},
  "Film Zone":
-    {"iconimage":"http://www.lamac.org/res/channels/logos/_0028_the_film_zone.png",
-     "channelType": "ENG",
+    {"iconimage":"http://www.thewrap.com/sites/default/files/Disney-Junior.jpeg",
+     "channelType": "KID",
      "channelSource": "OTHER",
-     "channelUrl": "http://31.220.41.107:80/LiveEdge/FilmZoneLASD/chunklist_w1921698760_b1000000.m3u8?token=768839be247fa873255a8c0bf827d780"},
+     "channelUrl": "http://31.220.41.107:80/LiveEdge/DisneyChannelEastHD/chunklist_w2145621608_b1000000.m3u8?token=2c6af0c875eb2ee9a8cf620010612a74"},
 "Radio Mirchi 98.3 FM":
 	{"iconimage":"http://img.xcitefun.net/users/2011/08/261089,xcitefun-radio-mirchi-98-3-fm-1.jpg",
 	 "channelType": "IND",
