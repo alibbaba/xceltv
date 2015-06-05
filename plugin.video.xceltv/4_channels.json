@@ -51,7 +51,7 @@
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/dd/dd_national.png",
 	 "channelType": "IND",
      "channelSource": "OTHER",
-	 "channelUrl": "http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD235_W_350.sdp/playlist.m3u8"},
+	 "channelUrl": "rtsp://218.248.64.82:1935/live/ddnational_webA.sdp?token=1884743119"},
  "DD News":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/dd/dd_news.png",
 	 "channelType": "IND",
