@@ -15,6 +15,12 @@
 	 "channelType": "IND",
      "channelSource": "OTHER",
 	 "channelUrl": "rtmp://cp137781.live.edgefcs.net:1935/live/MeethiMirchi@16318 live=true"},
+	 
+"Fox Sports 1 US":
+	{"iconimage":"http://images.bwwstatic.com/columnpic6/2552C47B3-F1BB-2508-A19F4D90D9D00357.jpg",
+	 "channelType": "SPO",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://31.220.41.103:80/LiveEdge/FoxSports1HD/chunklist_w1345358115_b1000000.m3u8?token=0ddabab5eb22727c95a7846ac27e65a2"},
 "Radio City 91.9 FM":
 	{"iconimage":"http://www.adgully.com/image/2010-08-RadioCity-91.1-FM1.jpg",
 	 "channelType": "IND",
