@@ -215,7 +215,7 @@
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png",
 	 "channelType": "IND",
      "channelSource": "SOFTMAG",
-	 "channelUrl": "http://109.200.20.26:8981/nationalgeographic112/331/index.m3u8?wmsAuthSign="},
+	 "channelUrl": "Opening: http://109.200.20.26:8981/nationalgeographic112/331/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTUgMToxNzozMSBQTSZoYXNoX3ZhbHVlPXgwbHIvU3JOMndQeW1HTFZDSUxEM0E9PSZ2YWxpZG1pbnV0ZXM9MTA="},
  "Dubbed Movies":
 	{"iconimage":"http://1.bp.blogspot.com/-xSTpki60QIQ/UU4AJhDZnTI/AAAAAAAAAeI/AfZWgt52XfY/s320/dubbed-movies+123.jpg",
 	 "channelType": "IND",
