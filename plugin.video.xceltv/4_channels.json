@@ -633,7 +633,7 @@
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_movies.png",
 	 "channelType": "TEL",
      "channelSource": "OTHER",
-	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk_geminimovies@180285/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+	 "channelUrl": "http://nwk-lh.akamaihd.net/i/us1_geminimovies@311829/master.m3u8|User-Agent=Apache-HttpClient%2FUNAVAILABLE+%28java+1.4%29"},
  "Maa Movies":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/mm/maa_movies.png",
 	 "channelType": "TEL",
@@ -643,7 +643,7 @@
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/mm/maa_gold.png",
 	 "channelType": "TEL",
      "channelSource": "OTHER",
-	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk1_maajuniors@180462/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+	 "channelUrl": "http://nwk3-lh.akamaihd.net/i/us3_maajuniors@315927/master.m3u8|User-Agent=Apache-HttpClient%2FUNAVAILABLE+%28java+1.4%29"},
  "Mahaa News":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/mm/mahaa_news_in.png",
 	 "channelType": "TEL",
@@ -653,12 +653,12 @@
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png",
 	 "channelType": "TEL",
      "channelSource": "OTHER",
-	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk_etv@180285/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+	 "channelUrl": "http://hlsent4-lh.akamaihd.net/i/ams50_ktrusa@320371/master.m3u8|User-Agent=Apache-HttpClient%2FUNAVAILABLE+%28java+1.4%29"},
  "Gemini Comedy":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_comedy.png",
 	 "channelType": "TEL",
      "channelSource": "OTHER",
-	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk3_geminicom@180464/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+	 "channelUrl": "http://nwk-lh.akamaihd.net/i/us1_geminicomedy@311830/master.m3u8|User-Agent=Apache-HttpClient%2FUNAVAILABLE+%28java+1.4%29"},
  "Calvary TV":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/cc/calvary_tv.png",
 	 "channelType": "TEL",
@@ -678,22 +678,22 @@
 	{"iconimage":"http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/zeetelugu_us.jpg",
 	 "channelType": "TEL",
      "channelSource": "OTHER",
-	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk_zeetelus@180285/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},    
+	 "channelUrl": "http://nwk6-lh.akamaihd.net/i/us6_zeetelus@321206/master.m3u8|User-Agent=Apache-HttpClient%2FUNAVAILABLE+%28java+1.4%29"},    
  "Maa TV US":
 	{"iconimage":"http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/maa_us.jpg",
 	 "channelType": "TEL",
      "channelSource": "OTHER",
-	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk1_maamoviesus@180462/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},     
+	 "channelUrl": "http://nwk6-lh.akamaihd.net/i/us6_maatvus@321203/master.m3u8|User-Agent=Apache-HttpClient%2FUNAVAILABLE+%28java+1.4%29"},     
  "Gemini TV US":
 	{"iconimage":"http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/gemini_ustime.jpg",
 	 "channelType": "TEL",
      "channelSource": "OTHER",
-	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk_geminius@180285/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+	 "channelUrl": "http://nwk6-lh.akamaihd.net/i/us6_geminius@321205/master.m3u8|User-Agent=Apache-HttpClient%2FUNAVAILABLE+%28java+1.4%29"},
  "Maa Movies US":
 	{"iconimage":"http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/maa_movies_ustime_roku.jpg",
 	 "channelType": "TEL",
      "channelSource": "OTHER",
-	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk1_maamoviesus@180462/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+	 "channelUrl": "http://nwk6-lh.akamaihd.net/i/us6_maamoviesus@321193/master.m3u8|User-Agent=Apache-HttpClient%2FUNAVAILABLE+%28java+1.4%29"},
  "OM CVR":
 	{"iconimage":"http://cdn.freedocast.com/yupptv/sony1/images/om_cvr_roku.jpg",
 	 "channelType": "TEL",
