@@ -7,12 +7,10 @@
      "channelUrl": "http://200.76.77.237/LIVE/H01/CANAL256/PROFILE03.m3u8?"},
 
  "Fox Sports News AU":
-    {"iconimage":"https://www.telstra.com.au/foxtel/images/channels/foxsports_news.jpg",
+    {"iconimage":"http://cdn.appstorm.net/android.appstorm.net/authors/ritaelkhoury/sports_apps_FOX_Sports_Mobile.png",
      "channelType": "SPO",
      "channelSource": "OTHER",
      "channelUrl": "http://foxsportshdhls-lh.akamaihd.net/i/fsnewshls_0@136427/index_2128_av-p.m3u8"},
-
-     
 
 "Radio Mirchi 98.3 FM":
 	{"iconimage":"http://img.xcitefun.net/users/2011/08/261089,xcitefun-radio-mirchi-98-3-fm-1.jpg",
