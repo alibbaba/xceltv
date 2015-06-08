@@ -746,22 +746,14 @@
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/aa/alpha_etc_punjabi_atn.png",
 	 "channelType": "PUN",
      "channelSource": "OTHER",
-	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk4_etcpunjabi@180465/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
- "Ankhila Punjab TV":
-	{"iconimage":"https://pbs.twimg.com/profile_images/485012084845862912/XdeBiVlu_400x400.jpeg",
-	 "channelType": "PUN",
-     "channelSource": "OTHER",
-	 "channelUrl": "rtmp://5.135.8.138:1935/live/punjab timeout=15"},    
+	 "channelUrl": "http://nwk4-lh.akamaihd.net/i/us4_etcpunjabi@315941/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+    
  "9x Tashan":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/num/9x_tashan.png",
 	 "channelType": "PUN",
      "channelSource": "OTHER",
 	 "channelUrl": "http://edge.purplestream.com/live/9xtas/amlst:9xtsh/playlist.m3u8"},
- "Zee Punjabi UK":
-	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/zz/zee_punjabi_uk.png",
-	 "channelType": "PUN",
-     "channelSource": "OTHER",
-	 "channelUrl": "http://akamaihd.wowzahls24.yuppcdn.net/hls/zeepunjabiuk/zeepunjabiuk.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+ 
  "DD Punjabi":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/dd/dd_punjabi.png",
 	 "channelType": "PUN",
