@@ -1858,12 +1858,12 @@
  "Star Sports 1 Link 1":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png",
 	 "channelType": "SPO",
-     "channelSource": "JINNAH",
+     "channelSource": "OTHER",
 	 "channelUrl": "http://107.155.125.27:8081/live/channel1/playlist.m3u8"},
  "Star Sports 2 Link 1":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_2.png",
 	 "channelType": "SPO",
-     "channelSource": "JINNAH",
+     "channelSource": "OTHER",
 	 "channelUrl": "http://107.155.125.27:8081/live/channel3/playlist.m3u8"},
  "Sony Six Link 1":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/sony_six_in.png",
