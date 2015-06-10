@@ -11,6 +11,12 @@
      "channelType": "SPO",
      "channelSource": "OTHER",
      "channelUrl": "http://foxsportshdhls-lh.akamaihd.net/i/fsnewshls_0@136427/index_2128_av-p.m3u8"},
+     
+"Ind Vs Ban 2015":
+    {"iconimage":"http://www.livewithsports.com/wp-content/uploads/2015/03/India-vs-Bangladesh-Quarter-Finals-World-Cup-2015.jpg",
+     "channelType": "SPO",
+     "channelSource": "OTHER",
+     "channelUrl": "http://107.155.125.27:8081/live/channel1/playlist.m3u8"},
 
 "Radio Mirchi 98.3 FM":
 	{"iconimage":"http://img.xcitefun.net/users/2011/08/261089,xcitefun-radio-mirchi-98-3-fm-1.jpg",
