@@ -1764,7 +1764,7 @@
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports2.png",
 	 "channelType": "SPO",
      "channelSource": "OTHER",
-	 "channelUrl": "rtmpe://46.246.29.160:1935/l swfUrl=http://hdcast.org/eplayer.swf live=1 pageUrl=http://www.hdcast.org/embedlive4.php?u=sskys2&vw=650&vh=470&domain=cricbox.tv/amine1313dz token=Fo5_n0w?U.rA6l3-70w47ch playpath=sskys2 timeout=10"},
+	 "channelUrl": "rtmp://80.82.78.85:443/liverepeater/2 token=#atd%#$ZH swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=17 live=true swfVfy=true timeout=10"},
  "Sky Sports 2 Link 2":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports2.png",
 	 "channelType": "SPO",
