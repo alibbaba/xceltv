@@ -16,7 +16,7 @@
     {"iconimage":"http://www.livewithsports.com/wp-content/uploads/2015/03/India-vs-Bangladesh-Quarter-Finals-World-Cup-2015.jpg",
      "channelType": "SPO",
      "channelSource": "OTHER",
-     "channelUrl": "http://107.155.125.27:8081/live/channel1/playlist.m3u8"},
+     "channelUrl": "rtmp://80.82.78.85:443/liverepeater/24 token=#atd%#$ZH swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=24 live=true swfVfy=true timeout=10"},
 
 "Radio Mirchi 98.3 FM":
 	{"iconimage":"http://img.xcitefun.net/users/2011/08/261089,xcitefun-radio-mirchi-98-3-fm-1.jpg",
@@ -1404,7 +1404,7 @@
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ee/etv_gujarati.png",
 	 "channelType": "GUJ",
      "channelSource": "OTHER",
-	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk5_etvguj@180466/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+	 "channelUrl": "http://nwk4-lh.akamaihd.net/i/us4_etvguj@315946/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
  "VTV Gujarati News":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/vv/vtv_gujarati.png",
 	 "channelType": "GUJ",
