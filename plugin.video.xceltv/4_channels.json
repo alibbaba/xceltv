@@ -1889,7 +1889,7 @@
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ww/willow_us.png",
 	 "channelType": "SPO",
      "channelSource": "OTHER",
-	 "channelUrl": "http://109.200.20.28:1918/magnate/willow170/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMC8yMDE1IDEyOjIyOjQ4IFBNJmhhc2hfdmFsdWU9bTZ2Sy91eVpNQTVvRjlOMWNwMFU5UT09JnZhbGlkbWludXRlcz0xMA=="}, 
+	 "channelUrl": "rtmp://80.82.78.85:443/liverepeater/14 token=#atd%#$ZH swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=14 live=true swfVfy=true timeout=10"}, 
  "Travel Channel":
     {"iconimage":"http://www.adweek.com/files/imagecache/node-blog/sa_article/travel-logo-484.jpg",
      "channelType": "ENG",
