@@ -1859,12 +1859,17 @@
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png",
 	 "channelType": "SPO",
      "channelSource": "OTHER",
-	 "channelUrl": "http://107.155.125.27:8081/live/channel1/playlist.m3u8"},
+	 "channelUrl": "Opening: http://109.200.20.28:1918/magnate/st-sportt1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMC8yMDE1IDg6MDI6NDggQU0maGFzaF92YWx1ZT1EQUZQQVJ2bG8wZDc0cWtwL1NXMk5BPT0mdmFsaWRtaW51dGVzPTEw"},
  "Star Sports 2 Link 1":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_2.png",
 	 "channelType": "SPO",
      "channelSource": "OTHER",
 	 "channelUrl": "http://107.155.125.27:8081/live/channel3/playlist.m3u8"},
+"Star Sports 3 Link 1":
+	{"iconimage":"http://1.bp.blogspot.com/-TQbhtrZkwAc/VPFafuI-krI/AAAAAAAAEnU/JMHAIwOLE6Q/s1600/star%2Bsports%2B3%2Bhindi%2Bchannel%2Bfor%2Bindia%2Bvs%2Buae.jpg",
+	 "channelType": "SPO",
+     "channelSource": "OTHER",
+	 "channelUrl": "http://109.200.20.28:1918/magnate/st-sportt3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMC8yMDE1IDg6MDU6MjcgQU0maGFzaF92YWx1ZT1qUmJaR3lQcHY3c0gxOGczTWZnU1lnPT0mdmFsaWRtaW51dGVzPTEw"},
  "Sony Six Link 1":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/sony_six_in.png",
 	 "channelType": "SPO",
@@ -1884,7 +1889,7 @@
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ww/willow_us.png",
 	 "channelType": "SPO",
      "channelSource": "SOFTMAG",
-	 "channelUrl": "http://109.200.20.28:1918/magnate/willow170/playlist.m3u8?wmsAuthSign="}, 
+	 "channelUrl": "http://109.200.20.28:1918/magnate/willow170/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMC8yMDE1IDg6MDQ6MTQgQU0maGFzaF92YWx1ZT1GS0RVckY0bW9CUWtOL2lzdUpuaGl3PT0mdmFsaWRtaW51dGVzPTEw"}, 
  "Travel Channel":
     {"iconimage":"http://www.adweek.com/files/imagecache/node-blog/sa_article/travel-logo-484.jpg",
      "channelType": "ENG",
