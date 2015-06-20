@@ -1888,7 +1888,7 @@
  "Willow Cricket":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ww/willow_us.png",
 	 "channelType": "SPO",
-     "channelSource": "SOFTMAG",
+     "channelSource": "OTHER",
 	 "channelUrl": "http://109.200.20.28:1918/magnate/willow170/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMC8yMDE1IDg6MDQ6MTQgQU0maGFzaF92YWx1ZT1GS0RVckY0bW9CUWtOL2lzdUpuaGl3PT0mdmFsaWRtaW51dGVzPTEw"}, 
  "Travel Channel":
     {"iconimage":"http://www.adweek.com/files/imagecache/node-blog/sa_article/travel-logo-484.jpg",
