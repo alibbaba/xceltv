@@ -1859,7 +1859,7 @@
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png",
 	 "channelType": "SPO",
      "channelSource": "OTHER",
-	 "channelUrl": "http://162.144.144.173:1935/justshared/st-sportt1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMC8yMDE1IDg6MTk6MjYgQU0maGFzaF92YWx1ZT1qL2ZMK3NuV3lNdFNpRk5UM3RNWERBPT0mdmFsaWRtaW51dGVzPTEw"},
+	 "channelUrl": "http://162.144.144.173:1935/justshared/st-sportt1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMC8yMDE1IDExOjU2OjQxIEFNJmhhc2hfdmFsdWU9bG16dW5BOFdzaXBSVnFFc3hmVnYrdz09JnZhbGlkbWludXRlcz0xMA=="},
  "Star Sports 2 Link 1":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_2.png",
 	 "channelType": "SPO",
