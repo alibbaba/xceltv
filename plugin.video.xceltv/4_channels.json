@@ -15,8 +15,8 @@
 "Ind Vs Ban 2015":
     {"iconimage":"http://www.livewithsports.com/wp-content/uploads/2015/03/India-vs-Bangladesh-Quarter-Finals-World-Cup-2015.jpg",
      "channelType": "SPO",
-     "channelSource": "JADOO",
-     "channelUrl": "http://162.144.144.173:1935/justshared/st-sportt1/playlist.m3u8?"},
+     "channelSource": "OTHER",
+     "channelUrl": "rtmp://80.82.78.85:443/liverepeater/14 token=#atd%#$ZH swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=14 live=true swfVfy=true timeout=10"},
 
 "Radio Mirchi 98.3 FM":
 	{"iconimage":"http://img.xcitefun.net/users/2011/08/261089,xcitefun-radio-mirchi-98-3-fm-1.jpg",
