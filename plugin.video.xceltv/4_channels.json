@@ -1859,7 +1859,7 @@
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png",
 	 "channelType": "SPO",
      "channelSource": "EBOUND",
-	 "channelUrl": "http://109.200.20.28:1918/magnate/st-sportt2/playlist.m3u8"},
+	 "channelUrl": "http://109.200.20.28:1918/magnate/st-sportt2/playlist.m3u8?"},
  "Star Sports 2 Link 1":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_2.png",
 	 "channelType": "SPO",
