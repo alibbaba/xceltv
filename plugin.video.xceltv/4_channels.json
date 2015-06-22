@@ -4,7 +4,7 @@
     {"iconimage":"http://upload.wikimedia.org/wikipedia/pt/c/c6/Universal_Channel.png",
      "channelType": "ENG",
      "channelSource": "OTHER",
-     "channelUrl": "http://200.76.77.237/LIVE/H01/CANAL256/PROFILE03.m3u8?"},
+     "channelUrl": "http://31.220.41.102:80/LiveEdge/ESPNUUS/chunklist_w1308037449_b1000000.m3u8?token=b444b3093a031992befe2a79b5b91875"},
      
 "Copa America 2015":
     {"iconimage":"http://www.italianfootballdaily.com/wp-content/uploads/2015/06/Copa-America.jpg",
@@ -1864,46 +1864,12 @@
 	 "channelType": "SPO",
      "channelSource": "OTHER",
 	 "channelUrl": "rtmp://80.82.78.85:443/liverepeater/14 token=#atd%#$ZH swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=14 live=true swfVfy=true timeout=10"}, 
- "Travel Channel":
-    {"iconimage":"http://www.adweek.com/files/imagecache/node-blog/sa_article/travel-logo-484.jpg",
-     "channelType": "ENG",
-     "channelSource": "OTHER",
-     "channelUrl": "http://live.zoptv.com/filmon/master.m3u8?id=842"},
- "Yesterday":
-    {"iconimage":"http://yesterday.uktv.co.uk/static/img/default_image.jpg",
-     "channelType": "ENG",
-     "channelSource": "OTHER",
-     "channelUrl": "http://live.zoptv.com/filmon/master.m3u8?id=1039"},
-  "Really":
-    {"iconimage":"http://res.cloudinary.com/uktv/image/upload/b_rgb:000000,w_660,h_371,c_fill,q_75/v1421922525/zltnj3xpcqe1yp7e2h3s.jpg",
-     "channelType": "ENG",
-     "channelSource": "OTHER",
-     "channelUrl": "http://live.zoptv.com/filmon/master.m3u8?id=372"},
    "Bloomberg UK":
     {"iconimage":"http://www.cinemablend.com/images/sections/32634/comcast_32634.jpg",
      "channelType": "ENG",
      "channelSource": "OTHER",
      "channelUrl": "http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$ timeout=10"},
-      "HBO USA":
-    {"iconimage":"http://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/422px-HBO_logo.svg.png",
-     "channelType": "ENG",
-     "channelSource": "OTHER",
-     "channelUrl": "http://31.220.40.100:80/LiveEdge/HBOZoneUS/chunklist_w747405890_b1000000.m3u8?token=d4f49ba563924638edfd7f0659cc752f"},
-    "HBO Family":
-    {"iconimage":"http://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",
-     "channelType": "ENG",
-     "channelSource": "OTHER",
-     "channelUrl": "rtmp://109.200.202.124/live playpath=hbofamily swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/hbofamily.html timeout=15"},
- "CBS Reality":
-    {"iconimage":"http://filmovinadlanu.com/_bd/2/46209146.gif",
-     "channelType": "ENG",
-     "channelSource": "OTHER",
-     "channelUrl": "http://live.zoptv.com/filmon/master.m3u8?id=1808"},
- "MGM HD":
-    {"iconimage":"http://i.ytimg.com/vi/WsXI5-7O-s4/maxresdefault.jpg",
-     "channelType": "ENG",
-     "channelSource": "OTHER",
-     "channelUrl": "http://bit.do/4z6H"},
+     
 "Bollywood Hungama Radio":
     {"iconimage":"http://www.liveonlineradio.net/wp-content/uploads/2010/11/Bollywood-Hungama.jpg",
      "channelType": "IND",
