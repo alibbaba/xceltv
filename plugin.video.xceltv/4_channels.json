@@ -5,6 +5,12 @@
      "channelType": "ENG",
      "channelSource": "OTHER",
      "channelUrl": "http://200.76.77.237/LIVE/H01/CANAL256/PROFILE03.m3u8?"},
+     
+"Copa America 2015":
+    {"iconimage":"http://www.italianfootballdaily.com/wp-content/uploads/2015/06/Copa-America.jpg",
+     "channelType": "SPO",
+     "channelSource": "OTHER",
+     "channelUrl": "http://192.99.161.41:8081/hls/CH_FUTBALL2SD/variant.m3u8?version=2"},
 
  "Fox Sports News AU":
     {"iconimage":"http://cdn.appstorm.net/android.appstorm.net/authors/ritaelkhoury/sports_apps_FOX_Sports_Mobile.png",
@@ -1754,47 +1760,25 @@
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports1.png",
 	 "channelType": "SPO",
      "channelSource": "OTHER",
-	 "channelUrl": "rtmpe://46.246.29.160:1935/l swfUrl=http://hdcast.org/eplayer.swf live=1 pageUrl=http://www.hdcast.org/embedlive4.php?u=sskys1&vw=650&vh=470&domain=cricbox.tv/amine1313dz token=Fo5_n0w?U.rA6l3-70w47ch playpath=sskys1 timeout=10"},
- "Sky Sports 1 Link 2":
-	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports1.png",
-	 "channelType": "SPO",
-     "channelSource": "OTHER",
-	 "channelUrl": "rtmp://80.82.78.85:443/liverepeater/40 token=#atd%#$ZH swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=19 live=true swfVfy=true timeout=10"},
+	 "channelUrl": "http://192.99.161.41:8081/caliveorigin/skysports1.stream/playlist.m3u8"},
+
  "Sky Sports 2 Link 1":    
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports2.png",
 	 "channelType": "SPO",
      "channelSource": "OTHER",
-	 "channelUrl": "rtmp://80.82.78.85:443/liverepeater/2 token=#atd%#$ZH swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=17 live=true swfVfy=true timeout=10"},
- "Sky Sports 2 Link 2":
-	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports2.png",
-	 "channelType": "SPO",
-     "channelSource": "OTHER",
-	 "channelUrl": "rtmp://80.82.78.85:443/liverepeater/48 token=#atd%#$ZH swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=19 live=true swfVfy=true timeout=10"},
- "Sky Sports 2 Link 3":
-	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports2.png",
-	 "channelType": "SPO",
-     "channelSource": "OTHER",
-	 "channelUrl": "rtmpe://5.153.233.74:443/c0be82e1442e7169a9a358db47fcafcb swfUrl=http://mybeststream.xyz/YjQ1ZTI1MzI0NjYyMGFhNzVkODdjY2Y1/jwplayer.flash.swf pageUrl=http://mybeststream.xyz/?id=28255 playpath=sk22514 live=1 timeout=10"},
- "Sky Sports 3 Link 1":
-	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports3.png",
-	 "channelType": "SPO",
-     "channelSource": "OTHER",
-	 "channelUrl": "rtmpe://46.246.29.160:1935/l swfUrl=http://hdcast.org/eplayer.swf live=1 pageUrl=http://www.hdcast.org/embedlive4.php?u=sskys3&vw=650&vh=470&domain=cricbox.tv/amine1313dz token=Fo5_n0w?U.rA6l3-70w47ch playpath=sskys3 timeout=10"},
+	 "channelUrl": "rtmp://80.82.78.85:443/liverepeater/33 token=#atd%#$ZH swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=33 live=true swfVfy=true timeout=10"},
+
  "Sky Sports 3 Link 2":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports3.png",
 	 "channelType": "SPO",
      "channelSource": "OTHER",
-	 "channelUrl": "rtmp://80.82.78.85:443/liverepeater/10 token=#atd%#$ZH swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=19 live=true swfVfy=true timeout=10"},
+	 "channelUrl": "http://192.99.161.41:8081/caliveorigin/skysports3.stream/playlist.m3u8"},
  "Sky Sports 4 Link 1":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports4.png",
 	 "channelType": "SPO",
      "channelSource": "OTHER",
-	 "channelUrl": "rtmpe://46.246.29.160:1935/l swfUrl=http://hdcast.org/eplayer.swf live=1 pageUrl=http://www.hdcast.org/embedlive4.php?u=sskys4&vw=650&vh=470&domain=cricbox.tv/amine1313dz token=Fo5_n0w?U.rA6l3-70w47ch playpath=sskys4 timeout=10"},
- "Sky Sports 4 Link 2":
-	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports4.png",
-	 "channelType": "SPO",
-     "channelSource": "OTHER",
-	 "channelUrl": "rtmp://80.82.78.85:443/liverepeater/16 token=#atd%#$ZH swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=19 live=true swfVfy=true timeout=10"},
+	 "channelUrl": "http://192.99.161.41:8081/caliveorigin/skysports4.stream/playlist.m3u8"},
+ 
  "Sky Sports 5 Link 1":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports5.png",
 	 "channelType": "SPO",
@@ -1809,7 +1793,7 @@
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ee/eurosport.png",
 	 "channelType": "SPO",
      "channelSource": "OTHER",
-	 "channelUrl": "rtmp://80.82.78.85:443/liverepeater/28 token=#atd%#$ZH swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=19 live=true swfVfy=true timeout=10"},
+	 "channelUrl": "http://192.99.161.41:8081/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8"},
  "Euro Sports 2":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ee/eurosport2.png",
 	 "channelType": "SPO",
@@ -1820,11 +1804,6 @@
 	 "channelType": "SPO",
      "channelSource": "OTHER",
 	 "channelUrl": "rtmp://rtmp.popeoftheplayers.eu:1935/redirect playpath=13 swfVfy=true swfUrl=http://popeoftheplayers.eu/atdedead.swf flashVer=WIN/2016,0,0,235 pageUrl=http://popeoftheplayers.eu/atdedead.swf live=true timeout=20 token=#atd%#$ZH"},
- "BT Sports 2":
-	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/bb/bt_sport_2.png",
-	 "channelType": "SPO",
-     "channelSource": "OTHER",
-	 "channelUrl": "rtmp://rtmp.popeoftheplayers.eu:1935/redirect playpath=15 swfVfy=true swfUrl=http://popeoftheplayers.eu/atdedead.swf flashVer=WIN/2016,0,0,235 pageUrl=http://popeoftheplayers.eu/atdedead.swf live=true timeout=20 token=#atd%#$ZH"},
  "Sky Sports F1":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports_f1_hd.png",
 	 "channelType": "SPO",
@@ -1858,8 +1837,8 @@
  "Star Sports 1 Link 1":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png",
 	 "channelType": "SPO",
-     "channelSource": "JADOO",
-	 "channelUrl": "http://109.200.20.28:1918/magnate/st-sportt2/playlist.m3u8"},
+     "channelSource": "EBOUND",
+	 "channelUrl": "http://109.200.20.28:1918/magnate/st-sportt2/"},
  "Star Sports 2 Link 1":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_2.png",
 	 "channelType": "SPO",
@@ -1884,7 +1863,7 @@
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/pp/ptv_sports_pk.png",
 	 "channelType": "SPO",
      "channelSource": "OTHER",
-	 "channelUrl": "rtmpe://5.153.233.106:443/c0be82e1442e7169a9a358db47fcafcb swfUrl=http://mybeststream.xyz/YjQ1ZTI1MzI0NjYyMGFhNzVkODdjY2Y1/jwplayer.flash.swf pageUrl=http://mybeststream.xyz/?id=28255 playpath=ptv870 live=1 timeout=10"},
+	 "channelUrl": "rtmp://rtmp.popeoftheplayers.eu:1935/redirect playpath=15 swfVfy=true swfUrl=http://popeoftheplayers.eu/atdedead.swf flashVer=WIN/2016,0,0,235 pageUrl=http://popeoftheplayers.eu/atdedead.swf live=true timeout=20 token=#atd%#$ZH"},
  "Willow Cricket":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ww/willow_us.png",
 	 "channelType": "SPO",
