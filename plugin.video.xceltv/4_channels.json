@@ -24,7 +24,12 @@
 	 "channelType": "IND",
      "channelSource": "OTHER",
 	 "channelUrl": "rtmp://cp137781.live.edgefcs.net:1935/live/MeethiMirchi@16318 live=true"},
-	 
+
+"CNBC Bajar":
+	{"iconimage":"http://i.haymarketindia.net/Utils/ImageResizerWM.ashx?n=http%3A%2F%2Fi.haymarketindia.net%2FNews%2Fcnbc.png&w=460",
+	 "channelType": "GUJ",
+     "channelSource": "OTHER",
+	 "channelUrl": "rtsp://web18.live-s.cdn.bitgravity.com/cdn-live-b3/_definst_/web18/live/pub08"},
 	 
 
 "Radio City 91.9 FM":
@@ -448,7 +453,7 @@
 	{"iconimage":"http://static.aka.yupp.yuppcdn.net/yupptv/sony1/images/mtv_india_roku.jpg",
 	 "channelType": "IND",
      "channelSource": "OTHER",
-	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/blore4_mtvau4@35911/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+	 "channelUrl": "http://hlsent6-lh.akamaihd.net/i/ams53_mtvau@327613/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
  "Sanskar TV":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/sanskar_tv.png",
 	 "channelType": "IND",
@@ -468,12 +473,8 @@
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/tt/times_now.png",
 	 "channelType": "IND",
      "channelSource": "OTHER",
-	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/blore7_timesnow8@113076/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
- "TimesNow Link 2":
-	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/tt/times_now.png",
-	 "channelType": "IND",
-     "channelSource": "OTHER",
-	 "channelUrl": "http://akamaihd.wowzahls1.yuppcdn.net/hls/timesnow/timesnow.m3u8|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+	 "channelUrl": "http://hlsent-lh.akamaihd.net/i/ams42_timesnow@307538/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+
  "ETNow":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ee/et_now.png",
 	 "channelType": "IND",
@@ -1365,7 +1366,7 @@
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/zz/zee_kannada.png",
 	 "channelType": "KAN",
      "channelSource": "OTHER",
-	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk4_zeekannada@180465/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+	 "channelUrl": "http://nwk6-lh.akamaihd.net/i/us6_zeekannadaus@321186/master.m3u8|User-Agent=Apache-HttpClient%2FUNAVAILABLE+%28java+1.4%29"},
  "Raj Musix Kannada":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/rr/raj_musix_kannada_in.png",
 	 "channelType": "KAN",
@@ -1385,17 +1386,17 @@
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ee/etv_kannada.png",
 	 "channelType": "KAN",
      "channelSource": "OTHER",
-	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk_etvkan@180285/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+	 "channelUrl": "http://nwk3-lh.akamaihd.net/i/us3_etvkan@315918/master.m3u8|User-Agent=Apache-HttpClient%2FUNAVAILABLE+%28java+1.4%29"},
  "Udaya TV":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/sun_udaya_tv.png",
 	 "channelType": "KAN",
      "channelSource": "OTHER",
-	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk_udaya@180285/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
- "Suvarna TV":
+	 "channelUrl": "http://nwk3-lh.akamaihd.net/i/us3_udaya@315917/master.m3u8|User-Agent=Apache-HttpClient%2FUNAVAILABLE+%28java+1.4%29"},
+ "Suvarna TV US":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/aa/asianet_suvarna.png",
 	 "channelType": "KAN",
      "channelSource": "OTHER",
-	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/nwk1_suvarnaent@180462/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},     
+	 "channelUrl": "http://nwk6-lh.akamaihd.net/i/us6_suvarnaentus@321201/master.m3u8|User-Agent=Apache-HttpClient%2FUNAVAILABLE+%28java+1.4%29"},     
  "TV9 Gujarati":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/tt/tv9_gujarat.png",
 	 "channelType": "GUJ",
@@ -1863,7 +1864,7 @@
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ww/willow_us.png",
 	 "channelType": "SPO",
      "channelSource": "SOFTMAG",
-	 "channelUrl": "http://109.200.20.28:1918/magnate/willow170/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDE1IDEwOjIwOjU2IEFNJmhhc2hfdmFsdWU9VDB4T01BdHg0TTYwOFNjaVEvYWpKUT09JnZhbGlkbWludXRlcz0xMA=="}, 
+	 "channelUrl": "http://109.200.20.28:1918/magnate/willow170/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDE1IDExOjA1OjM5IEFNJmhhc2hfdmFsdWU9ek5oZ2tJamhBcWliemtyempYWlh5dz09JnZhbGlkbWludXRlcz0xMA=="}, 
    "Bloomberg UK":
     {"iconimage":"http://www.cinemablend.com/images/sections/32634/comcast_32634.jpg",
      "channelType": "ENG",
