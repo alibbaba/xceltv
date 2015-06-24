@@ -896,7 +896,7 @@
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/pp/peace_tv.png",
 	 "channelType": "PAK",
      "channelSource": "OTHER",
-	 "channelUrl": "http://yupptvrtmp-lh.akamaihd.net/i/blore3_peacetvurdu63@130847/master.m3u8?dw=100|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+	 "channelUrl": "rtmp://peace.fms.visionip.tv/live playpath=b2b-peace_asia-live-25f-4x3-sdh_1 swfUrl=http://www.elahmad.com/tv/swf/peacetv.swf?file=/tv/file.php?id=peace_asia&/DYNAMIC/2/DYNAMIC/3 pageUrl=http://www.elahmad.com/tv/peacetv.php timeout=15"},
  "Paigham TV":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/pp/paigham_tv_pk.png",
 	 "channelType": "PAK",
