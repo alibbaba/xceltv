@@ -1832,8 +1832,8 @@
  "Star Sports 1 Link 1":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png",
 	 "channelType": "SPO",
-     "channelSource": "SOFTMAG",
-	 "channelUrl": "http://162.144.144.173:1935/justshared/st-sportt1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDE1IDEwOjEwOjQyIEFNJmhhc2hfdmFsdWU9d2Rud0ljNGFEVFNhN1hqaXRWWk1FUT09JnZhbGlkbWludXRlcz0xMA=="},
+     "channelSource": "OTHER",
+	 "channelUrl": "rtmp://80.82.78.85:443/liverepeater/24 token=#atd%#$ZH swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=24 live=true swfVfy=true timeout=10"},
  "Star Sports 2 Link 1":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_2.png",
 	 "channelType": "SPO",
@@ -1842,8 +1842,8 @@
 "Star Sports 3 Link 1":
 	{"iconimage":"http://1.bp.blogspot.com/-TQbhtrZkwAc/VPFafuI-krI/AAAAAAAAEnU/JMHAIwOLE6Q/s1600/star%2Bsports%2B3%2Bhindi%2Bchannel%2Bfor%2Bindia%2Bvs%2Buae.jpg",
 	 "channelType": "SPO",
-     "channelSource": "JADOO",
-	 "channelUrl": "http://109.200.20.28:1918/magnate/st-sportt3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMC8yMDE1IDg6MDU6MjcgQU0maGFzaF92YWx1ZT1qUmJaR3lQcHY3c0gxOGczTWZnU1lnPT0mdmFsaWRtaW51dGVzPTEw"},
+     "channelSource": "SOFTMAG",
+	 "channelUrl": "http://109.200.20.28:1918/magnate/st-sportt3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDE1IDEwOjE4OjQ4IEFNJmhhc2hfdmFsdWU9R3lVSTRnKzlPVkRxeFR2RTFYWVhDZz09JnZhbGlkbWludXRlcz0xMA=="},
  "Sony Six Link 1":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/sony_six_in.png",
 	 "channelType": "SPO",
@@ -1862,8 +1862,8 @@
  "Willow Cricket":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ww/willow_us.png",
 	 "channelType": "SPO",
-     "channelSource": "OTHER",
-	 "channelUrl": "rtmp://80.82.78.85:443/liverepeater/14 token=#atd%#$ZH swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=14 live=true swfVfy=true timeout=10"}, 
+     "channelSource": "SOFTMAG",
+	 "channelUrl": "http://109.200.20.28:1918/magnate/willow170/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDE1IDEwOjIwOjU2IEFNJmhhc2hfdmFsdWU9VDB4T01BdHg0TTYwOFNjaVEvYWpKUT09JnZhbGlkbWludXRlcz0xMA=="}, 
    "Bloomberg UK":
     {"iconimage":"http://www.cinemablend.com/images/sections/32634/comcast_32634.jpg",
      "channelType": "ENG",
