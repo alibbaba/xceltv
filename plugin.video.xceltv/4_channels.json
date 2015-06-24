@@ -1864,7 +1864,7 @@
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ww/willow_us.png",
 	 "channelType": "SPO",
      "channelSource": "SOFTMAG",
-	 "channelUrl": "http://109.200.20.28:1918/magnate/willow170/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDE1IDExOjA1OjM5IEFNJmhhc2hfdmFsdWU9ek5oZ2tJamhBcWliemtyempYWlh5dz09JnZhbGlkbWludXRlcz0xMA=="}, 
+	 "channelUrl": "http://109.200.20.28:1918/magnate/willow170/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDE1IDEyOjA0OjI0IFBNJmhhc2hfdmFsdWU9VVhGRWpSaE03YU9GSlozNkh5NFMvQT09JnZhbGlkbWludXRlcz0xMA=="}, 
    "Bloomberg UK":
     {"iconimage":"http://www.cinemablend.com/images/sections/32634/comcast_32634.jpg",
      "channelType": "ENG",
