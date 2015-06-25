@@ -38,11 +38,11 @@
      "channelSource": "OTHER",
 	 "channelUrl": "http://216.245.201.73:9960/"},
 	
-	"England Vs NZ 2015":
-{"iconimage":"http://1.bp.blogspot.com/-ZXRidI1hkmc/VVzEPNEkWmI/AAAAAAAAC1M/J2n1lbovWX8/s200-h150-c/England%2Bvs%2BNew%2BZealand.jpg",
-"channelType": "SPO",
+	"CTVN":
+{"iconimage":"http://www.ctvn.co.in/admin/logoRepose/ctvn_Logo_9521484_20140610080611.jpeg",
+"channelType": "BEN",
      "channelSource": "OTHER",
-"channelUrl": "rtmpe://46.246.124.37:1935/livedge swfUrl=http://player.hdcast.org/_.swf live=1 pageUrl=http://www.hdcast.org/embedlive4.php?u=sskys2&domain=cricbox.tv/amine1313dz token=Fo5_n0w?U.rA6l3-70w47ch playpath=sskys2 timeout=10"},
+"channelUrl": "rtmp://cdn3.ivb7.gloriatech.smster.in:1935/ivb7?59025902 playpath=ctvn?59025902  swfUrl=http://ivb7.com/player/ivb7Player-VersionII.swf  pageUrl=http://cdn.app1.ivb7.com/HybridPlayer/PlayerSettings.cshtml?playerid=59025902"},
 	
 	"Radio Zindagi Bay Area":
 	{"iconimage":"http://cdn.freedocast.com/yupptv/roku/images/rzba_roku.jpg",
