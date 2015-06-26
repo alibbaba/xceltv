@@ -4,7 +4,7 @@
     {"iconimage":"http://upload.wikimedia.org/wikipedia/pt/c/c6/Universal_Channel.png",
      "channelType": "ENG",
      "channelSource": "OTHER",
-     "channelUrl": "http://31.220.41.102:80/LiveEdge/ESPNUUS/chunklist_w1308037449_b1000000.m3u8?token=b444b3093a031992befe2a79b5b91875"},
+     "channelUrl": "rtmp://109.200.202.124/live%20 playpath=hbo2%20swfUrl=http://www.tv-msn.com/player/player.swf%20live=1%20pageUrl=http://tv-msn.com/hbo2.html"},
      
 "Copa America 2015":
     {"iconimage":"http://www.italianfootballdaily.com/wp-content/uploads/2015/06/Copa-America.jpg",
@@ -1833,18 +1833,18 @@
  "Star Sports 1 Link 1":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_1.png",
 	 "channelType": "SPO",
-     "channelSource": "OTHER",
-	 "channelUrl": "rtmp://80.82.78.85:443/liverepeater/24 token=#atd%#$ZH swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=24 live=true swfVfy=true timeout=10"},
+     "channelSource": "EBOUNDNEW",
+	 "channelUrl": "http://162.144.144.173:1935/justshared/st-sportt1/playlist.m3u8"},
  "Star Sports 2 Link 1":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/star_sports_in_2.png",
 	 "channelType": "SPO",
-     "channelSource": "JADOO",
-	 "channelUrl": "http://107.155.125.27:8081/live/channel3/playlist.m3u8"},
+     "channelSource": "EBOUNDNEW",
+	 "channelUrl": "http://109.200.20.28:1918/magnate/st-sportt2/playlist.m3u8"},
 "Star Sports 3 Link 1":
 	{"iconimage":"http://1.bp.blogspot.com/-TQbhtrZkwAc/VPFafuI-krI/AAAAAAAAEnU/JMHAIwOLE6Q/s1600/star%2Bsports%2B3%2Bhindi%2Bchannel%2Bfor%2Bindia%2Bvs%2Buae.jpg",
 	 "channelType": "SPO",
-     "channelSource": "SOFTMAG",
-	 "channelUrl": "http://109.200.20.28:1918/magnate/st-sportt3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDE1IDEwOjE4OjQ4IEFNJmhhc2hfdmFsdWU9R3lVSTRnKzlPVkRxeFR2RTFYWVhDZz09JnZhbGlkbWludXRlcz0xMA=="},
+     "channelSource": "EBOUNDNEW",
+	 "channelUrl": "http://109.200.20.28:1918/magnate/st-sportt3/playlist.m3u8"},
  "Sony Six Link 1":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/sony_six_in.png",
 	 "channelType": "SPO",
@@ -1863,8 +1863,8 @@
  "Willow Cricket":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ww/willow_us.png",
 	 "channelType": "SPO",
-     "channelSource": "SOFTMAG",
-	 "channelUrl": "http://109.200.20.28:1918/magnate/willow170/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDE1IDEyOjA0OjI0IFBNJmhhc2hfdmFsdWU9VVhGRWpSaE03YU9GSlozNkh5NFMvQT09JnZhbGlkbWludXRlcz0xMA=="}, 
+     "channelSource": "EBOUNDNEW",
+	 "channelUrl": "http://109.200.20.28:1918/magnate/22-willow-hd/playlist.m3u8"}, 
    "Bloomberg UK":
     {"iconimage":"http://www.cinemablend.com/images/sections/32634/comcast_32634.jpg",
      "channelType": "ENG",

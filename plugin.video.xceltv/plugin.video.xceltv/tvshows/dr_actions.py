@@ -300,6 +300,19 @@ def watch_live(req_attrib, modelMap):
         final_url = playfile
     # END EBOUND Links
     
+     #EBOUNDNEW
+    
+    if tv_channel['channelSource'] == 'EBOUNDNEW':
+    	
+    	req = urllib2.Request('http://softmagnate.com/getChKey2.php')
+    	response = urllib2.urlopen(req)
+    	link = response.read()
+    	response.close()
+    	stream = final_url + '?wmsAuthSign=' + link
+    	final_url = stream
+    
+    
+    
     # START Jadoo Links 
     if tv_channel['channelSource'] == 'JADOO':
         if '?securitytype=2' in final_url:
