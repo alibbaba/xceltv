@@ -1,5 +1,23 @@
 
 {
+
+"Baby Tv":
+    {"iconimage":"http://www.animationmagazine.net/wordpress/wp-content/uploads/baby-tv-150.jpg",
+     "channelType": "KID",
+     "channelSource": "OTHER",
+     "channelUrl": "http://s2.desitv.ml:8081/live/babytv/playlist.m3u8"},
+"Cartoon Network HINDI":    
+{"iconimage":"http://news.worldsnap.com/wp-content/uploads/2010/12/Cartoon-Network-336x302.jpg",
+"channelType": "KID",
+     "channelSource": "OTHER",
+"channelUrl": "http://hlsbanglaextra-lh.akamaihd.net/i/ams45_cortonnetwork@318861/master.m3u8|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+
+"Pogo HINDI":    
+{"iconimage":"http://i.onlinewatchtv.net/110/pogo-indian-hindi-tv-channel-watch-live.jpg",
+"channelType": "KID",
+     "channelSource": "OTHER",
+"channelUrl": "http://hlsbanglaextra-lh.akamaihd.net/i/ams45_pogohindi@318860/master.m3u8|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
+
  "Universal Channel":
     {"iconimage":"http://upload.wikimedia.org/wikipedia/pt/c/c6/Universal_Channel.png",
      "channelType": "ENG",
@@ -1814,12 +1832,13 @@
 	{"iconimage":"http://imagesci.com/img/2013/17/tom-and-jerry-logo-458-hd-wallpapers.jpg",
 	 "channelType": "KID",
      "channelSource": "OTHER",
-	 "channelUrl": "rtmp://66.90.111.2/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html live=1 swfVfy=1 timeout=10"},
+	 "channelUrl": "none"},
  "Cartoon Network":    
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png",
 	 "channelType": "KID",
      "channelSource": "OTHER",
 	 "channelUrl": "http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_350.sdp/playlist.m3u8"},
+
  "Pogo":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/pp/pogo.png",
 	 "channelType": "KID",
@@ -1864,7 +1883,7 @@
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ww/willow_us.png",
 	 "channelType": "SPO",
      "channelSource": "EBOUNDNEW",
-	 "channelUrl": "http://109.200.20.28:1918/magnate/22-willow-hd/playlist.m3u8"}, 
+	 "channelUrl": "http://109.200.20.28:1918/magnate/willow170/playlist.m3u8"}, 
    "Bloomberg UK":
     {"iconimage":"http://www.cinemablend.com/images/sections/32634/comcast_32634.jpg",
      "channelType": "ENG",
