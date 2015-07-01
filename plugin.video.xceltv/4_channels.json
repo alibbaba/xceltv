@@ -1,6 +1,12 @@
 
 {
 
+"Ten Cricket":
+    {"iconimage":"http://www.criclounge.com/uploads/news/newsid_2097-TEN-Cricket-New-Logo-200x160.jpg",
+     "channelType": "SPO",
+     "channelSource": "OTHER",
+     "channelUrl": "http://dittotv.live-s.cdn.bitgravity.com/cdn-live/_definst_/dittotv/secure/ten_cricket_3G.smil/playlist.m3u8?e=1435743273&a=AU&h=d4214ee44543c9f21a3a49851c231e3d"},
+     
 "Baby Tv":
     {"iconimage":"http://www.animationmagazine.net/wordpress/wp-content/uploads/baby-tv-150.jpg",
      "channelType": "KID",
@@ -18,12 +24,73 @@
      "channelSource": "OTHER",
 "channelUrl": "http://hlsbanglaextra-lh.akamaihd.net/i/ams45_pogohindi@318860/master.m3u8|User-Agent=Apache-HttpClient/UNAVAILABLE+(java+1.4)"},
 
- "Universal Channel":
-    {"iconimage":"http://upload.wikimedia.org/wikipedia/pt/c/c6/Universal_Channel.png",
+ "HBO Channel":
+    {"iconimage":"http://nowwatchtvlive.me/wp-content/uploads/2011/07/HBO-Channel-logo.png",
      "channelType": "ENG",
-     "channelSource": "OTHER",
-     "channelUrl": "rtmp://109.200.202.124/live%20 playpath=hbo2%20swfUrl=http://www.tv-msn.com/player/player.swf%20live=1%20pageUrl=http://tv-msn.com/hbo2.html"},
+     "channelSource": "JINNAHNEW",
+     "channelUrl": "http://s1.desitv.ml:8081/live/hbo/playlist.m3u8"},
+
+"Discovery History Channel":
+    {"iconimage":"http://designshack.net/images/designs/discovery-history.jpg",
+     "channelType": "ENG",
+     "channelSource": "JINNAHNEW",
+     "channelUrl": "http://link.dynns.com:1935/iptv/DISHISTORY/playlist.m3u8"},     
      
+"Discovery ID Channel":
+    {"iconimage":"http://images.bwwstatic.com/columnpic6/EEADD16D-D8E3-F869-88002768400B1CD0.jpg",
+     "channelType": "ENG",
+     "channelSource": "JINNAHNEW",
+     "channelUrl": "http://link.dynns.com:1935/iptv/DISCOVERYID/playlist.m3u8"},  
+
+"Discovery UK Channel":
+    {"iconimage":"http://www.medievalarchives.com/wp-content/uploads/2010/10/Discovery_Channel500.jpg",
+     "channelType": "ENG",
+     "channelSource": "JINNAHNEW",
+     "channelUrl": "http://link.dynns.com:1935/iptv/discovry/playlist.m3u8"}, 
+     
+"History Channel":
+    {"iconimage":"http://blogs-images.forbes.com/bradlockwood/files/2011/10/history-channel-logo.jpg",
+     "channelType": "ENG",
+     "channelSource": "JINNAHNEW",
+     "channelUrl": "http://link.dynns.com:1935/iptv/HISTORY/playlist.m3u8"}, 
+
+"MTV Classic":
+    {"iconimage":"http://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Mtv_classic.svg/97px-Mtv_classic.svg.png",
+     "channelType": "ENG",
+     "channelSource": "JINNAHNEW",
+     "channelUrl": "http://link.dynns.com:1935/iptv/MTVCLASSIC/playlist.m3u8"},   
+  
+"MTV Hits":
+    {"iconimage":"http://nowwatchtvlive.me/wp-content/uploads/2013/04/Watch-Live-MTV-Hits-TV-logo.gif",
+     "channelType": "ENG",
+     "channelSource": "JINNAHNEW",
+     "channelUrl": "http://link.dynns.com:1935/iptv/MTVHITS/playlist.m3u8"}, 
+
+"MTV Music":
+    {"iconimage":"http://www.creativereview.co.uk/images/uploads/2009/07/mtv_logo569_0.jpg",
+     "channelType": "ENG",
+     "channelSource": "JINNAHNEW",
+     "channelUrl": "http://link.dynns.com:1935/iptv/MTVMUSIC/playlist.m3u8"}, 
+     
+"Nat Geo Wild":
+    {"iconimage":"http://petsblogs.com/post-images/nat-geo-wild-logo.jpg",
+     "channelType": "ENG",
+     "channelSource": "JINNAHNEW",
+     "channelUrl": "http://link.dynns.com:1935/iptv/NatGeoWild/playlist.m3u8"}, 
+     
+"Travel Channel":
+    {"iconimage":"http://cdn.ulive.com/7e/34/5ef23fa349908845cc628721461a/travel-channel-logo-6613.png",
+     "channelType": "ENG",
+     "channelSource": "JINNAHNEW",
+     "channelUrl": "http://link.dynns.com:1935/iptv/TRAVEL/playlist.m3u8"}, 
+
+"VH1":
+    {"iconimage":"http://blogs.fidm.com/.a/6a00d834555dcb69e2017d3fbf9895970c-pi",
+     "channelType": "ENG",
+     "channelSource": "JINNAHNEW",
+     "channelUrl": "http://link.dynns.com:1935/iptv/VH1/playlist.m3u8"},
+
+
 "Copa America 2015":
     {"iconimage":"http://www.italianfootballdaily.com/wp-content/uploads/2015/06/Copa-America.jpg",
      "channelType": "SPO",
@@ -1768,8 +1835,8 @@
  "Animal Planet Link 1":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/aa/animal_planet_us.png",
 	 "channelType": "ENG",
-     "channelSource": "OTHER",
-	 "channelUrl": "http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?"},
+     "channelSource": "JINNAHNEW",
+	 "channelUrl": "http://link.dynns.com:1935/iptv/animalplanet/playlist.m3u8"},
  "Sky Sports 1 Link 1":
 	{"iconimage":"http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports1.png",
 	 "channelType": "SPO",
