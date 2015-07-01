@@ -90,6 +90,42 @@
      "channelSource": "JINNAHNEW",
      "channelUrl": "http://link.dynns.com:1935/iptv/VH1/playlist.m3u8"},
 
+"BTN":
+    {"iconimage":"https://pbs.twimg.com/profile_images/551824659067334656/ZhCcI8nc.jpeg",
+     "channelType": "SPO",
+     "channelSource": "OTHER",
+     "channelUrl": "http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8"},
+
+"Ten Action":
+    {"iconimage":"http://tvimages.burrp.com/images/channels2/sports/Ten-Action.png",
+     "channelType": "SPO",
+     "channelSource": "OTHER",
+     "channelUrl": "rtsp://218.248.64.82:1935/live/tenaction_webA.sdp?token=8952878380"},
+
+"Fox Sports Europe HD":
+    {"iconimage":"http://i28.photobucket.com/albums/c239/javoz/fox_sports_hd_zps624902a4.png",
+     "channelType": "SPO",
+     "channelSource": "OTHER",
+     "channelUrl": "http://113.160.49.34/lives/origin03/foxhd.isml/foxhd-2096k.m3u8"},
+
+"Sports Tv 1":
+    {"iconimage":"http://i46.tinypic.com/1rx83b.jpg",
+     "channelType": "SPO",
+     "channelSource": "OTHER",
+     "channelUrl": "rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/ timeout=15"},
+     
+"Sports Tv 2":
+    {"iconimage":"http://3.bp.blogspot.com/-V3Bq9v8cW8Q/UL-rIE3LqqI/AAAAAAAAGDM/CC2_2lWQxHc/s1600/sport_tv2_pt.jpg",
+     "channelType": "SPO",
+     "channelSource": "OTHER",
+     "channelUrl": "rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/ timeout=15"},
+
+"Sports Tv 3":
+    {"iconimage":"http://tv-live.in/wp-content/uploads/tv-online/Channel/top%20soprt/popup%20tv/img/sport%20tv3.gif",
+     "channelType": "SPO",
+     "channelSource": "OTHER",
+     "channelUrl": "rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/"},
+
 
 "Copa America 2015":
     {"iconimage":"http://www.italianfootballdaily.com/wp-content/uploads/2015/06/Copa-America.jpg",
