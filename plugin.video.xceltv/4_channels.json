@@ -72,6 +72,24 @@
      "channelSource": "JINNAHNEW",
      "channelUrl": "http://link.dynns.com:1935/iptv/MTVMUSIC/playlist.m3u8"}, 
      
+"VEVO 1":
+    {"iconimage":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBtF75c2_zVan9xPeJPKlHb2OA3JK-EEvmftnVeA-UZlizITdE",
+     "channelType": "ENG",
+     "channelSource": "OTHER",
+     "channelUrl": "http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8"}, 
+
+"VEVO 2":
+    {"iconimage":"https://lh3.ggpht.com/sQKap6bxVug-fcUl50_A79NwzjbU9ju4jEIWcQyb_dB1ZOGz2m7Wto4UnCq70ImULqwk=w300",
+     "channelType": "ENG",
+     "channelSource": "OTHER",
+     "channelUrl": "http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8"}, 
+     
+"Kiss Tv":
+    {"iconimage":"http://www.worldtvpc.com/onlinevideosites/img/KissTV.jpg",
+     "channelType": "ENG",
+     "channelSource": "OTHER",
+     "channelUrl": "rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live timeout=15"},
+     
 "Nat Geo Wild":
     {"iconimage":"http://petsblogs.com/post-images/nat-geo-wild-logo.jpg",
      "channelType": "ENG",
@@ -138,6 +156,18 @@
      "channelType": "SPO",
      "channelSource": "OTHER",
      "channelUrl": "http://foxsportshdhls-lh.akamaihd.net/i/fsnewshls_0@136427/index_2128_av-p.m3u8"},
+     
+"Fox Sports 1 US":
+    {"iconimage":"http://www.mmasucka.com/wp-content/uploads/2013/03/FOXSports1.jpg",
+     "channelType": "SPO",
+     "channelSource": "OTHER",
+     "channelUrl": "rtmp://178.18.31.51:443/liverepeater playpath=195380 token=deadreallysoon%%7 swfUrl=http://bernardotv.club/secure1.swf live=1 timeout=13 pageUrl=http://biggestplayer.me/ AnisotropicTV"},
+
+"ESPN":
+    {"iconimage":"http://epltalk.com/wp-content/uploads/2009/08/espn-300x300.jpg",
+     "channelType": "SPO",
+     "channelSource": "OTHER",
+     "channelUrl": "rtmp://179.43.158.200:1935/stream/ playpath=1Kq68GX6Kc.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 timeout=13 pageUrl=http://www.04stream.com/ AnisotropicTV"},
      
 
 "Radio Mirchi 98.3 FM":
