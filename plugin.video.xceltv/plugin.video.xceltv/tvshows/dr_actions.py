@@ -260,7 +260,26 @@ def re_me(data, re_patten):
         match = m.group(1)
     else:
         match = ''
-    return match        
+    return match
+    
+def get_jinnah_key():
+    jinnahLink = urllib2.Request(base64.b64decode('aHR0cDovL3plcml0di5jb20vc2VjdXJlZC9mZXRjaEppbm5haExpbmsucGhw'))
+    getHTML = urllib2.urlopen(jinnahLink)
+    link = getHTML.read()
+    jinnahUsername = urllib2.Request(base64.b64decode('aHR0cDovL3plcml0di5jb20vc2VjdXJlZC9mZXRjaEppbm5haFVzZXJuYW1lLnBocA=='))
+    getHTML = urllib2.urlopen(jinnahUsername)
+    username = getHTML.read()
+    jinnahPassword = urllib2.Request(base64.b64decode('aHR0cDovL3plcml0di5jb20vc2VjdXJlZC9mZXRjaEppbm5haFBhc3N3b3JkLnBocA=='))
+    getHTML = urllib2.urlopen(jinnahPassword)
+    password = getHTML.read()
+    setRealm = urllib2.HTTPPasswordMgrWithDefaultRealm()
+    setRealm.add_password(None, link, username, password)
+    basicHttpHandler = urllib2.HTTPBasicAuthHandler(setRealm)
+    buildOpener = urllib2.build_opener(basicHttpHandler)
+    urllib2.install_opener(buildOpener)
+    tokenUrl = urllib2.urlopen(link)
+    token = tokenUrl.read()
+    return token            
 
 def watch_live(req_attrib, modelMap):
     channel_name = req_attrib['channel-name']
@@ -310,7 +329,11 @@ def watch_live(req_attrib, modelMap):
     	response.close()
     	stream = final_url + '?wmsAuthSign=' + link
     	final_url = stream
-    
+    	
+    if tv_channel['channelSource'] == 'JINNAHNEW':
+     	key = get_jinnah_key()
+    	stream = final_url + key
+    	final_url = stream
     
     
     # START Jadoo Links 
